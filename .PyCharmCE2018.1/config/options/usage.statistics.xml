@@ -1,0 +1,167 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="4" />
+      <entry action="$Paste" count="2" />
+      <entry action="$Undo" count="44" />
+      <entry action="ActivatePythonConsoleToolWindow" count="1" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="CommentByLineComment" count="2" />
+      <entry action="CopyElement" count="1" />
+      <entry action="DialogOkAction Enter" count="7" />
+      <entry action="EditorBackSpace" count="1168" />
+      <entry action="EditorChooseLookupItem" count="6" />
+      <entry action="EditorCopy" count="19" />
+      <entry action="EditorDeleteToWordStart" count="2" />
+      <entry action="EditorDown" count="45" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="135" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorLeft" count="377" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorLineStart" count="8" />
+      <entry action="EditorPaste" count="40" />
+      <entry action="EditorRight" count="792" />
+      <entry action="EditorStartNewLineBefore" count="5" />
+      <entry action="EditorTab" count="22" />
+      <entry action="EditorUp" count="29" />
+      <entry action="ExpandLiveTemplateByTab" count="8" />
+      <entry action="ExpandRegion" count="1" />
+      <entry action="FileChooser.GotoHome" count="2" />
+      <entry action="GotoDeclaration" count="4" />
+      <entry action="GotoFile" count="1" />
+      <entry action="HideAllWindows" count="47" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewHtmlFile" count="5" />
+      <entry action="NewPythonFile" count="2" />
+      <entry action="OpenFile" count="2" />
+      <entry action="SaveAll" count="4" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowIntentionActions" count="229" />
+      <entry action="ShowPopupMenu" count="1" />
+      <entry action="ToggleLineBreakpoint" count="7" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1528531612273" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="2" last-shown="0" last-used="1529742077415" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="0" last-shown="1529746163446" last-used="0" shown-count="927" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="1" last-shown="0" last-used="1528639648523" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="1" last-shown="0" last-used="1528623528860" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="8" last-shown="0" last-used="1529745542047" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="39" last-shown="0" last-used="1529746224459" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="4" last-shown="0" last-used="1529742078886" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="46" />
+      <option name="invocations" value="6" />
+      <option name="startDate" value="1528578000000" />
+      <option name="dayCount" value="2" />
+      <option name="lastDate" value="1529701200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="10" />
+      <option name="startDate" value="1528578000000" />
+      <option name="dayCount" value="2" />
+      <option name="lastDate" value="1529528400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Python codeInspection.ex.EditInspectionToolsSettingsAction" count="1" />
+      <entry name="Python com.jetbrains.python.codeInsight.imports.AutoImportQuickFix" count="7" />
+      <entry name="Python com.jetbrains.python.inspections.PyInterpreterInspection$ConfigureInterpreterFix" count="1" />
+      <entry name="Python com.jetbrains.python.inspections.PyPackageRequirementsInspection$InstallAndImportQuickFix" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Open..." count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Python Console" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Terminal" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+Enter" count="229" />
+      <entry shortcut="Backspace" count="1165" />
+      <entry shortcut="Context Menu" count="1" />
+      <entry shortcut="Ctrl+Alt+Enter" count="5" />
+      <entry shortcut="Ctrl+Backspace" count="2" />
+      <entry shortcut="Ctrl+C" count="19" />
+      <entry shortcut="Ctrl+D" count="1" />
+      <entry shortcut="Ctrl+NumPad +" count="1" />
+      <entry shortcut="Ctrl+S" count="4" />
+      <entry shortcut="Ctrl+Shift+N" count="1" />
+      <entry shortcut="Ctrl+Slash" count="2" />
+      <entry shortcut="Ctrl+V" count="40" />
+      <entry shortcut="Ctrl+Z" count="44" />
+      <entry shortcut="Delete" count="4" />
+      <entry shortcut="Down" count="45" />
+      <entry shortcut="End" count="1" />
+      <entry shortcut="Enter" count="141" />
+      <entry shortcut="F5" count="1" />
+      <entry shortcut="Home" count="8" />
+      <entry shortcut="Left" count="377" />
+      <entry shortcut="Right" count="792" />
+      <entry shortcut="Shift+Backspace" count="3" />
+      <entry shortcut="Shift+Shift" count="1" />
+      <entry shortcut="Tab" count="32" />
+      <entry shortcut="Up" count="29" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="2" />
+      <entry action="Show Options@ToolWindowHeader" count="4" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="5" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="2" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="OpenInBrowser.Firefox" count="4" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="ideaapp.started" count="12" />
+      <entry feature="python.console.local" count="3" />
+      <entry feature="terminal.linux" count="10" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

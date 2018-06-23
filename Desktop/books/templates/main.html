@@ -1,0 +1,21 @@
+
+{% extends 'base.html' %}
+{% block content %}
+        <div class="row">
+        {% for book in books %}
+            <div class="col-4">
+                <div class="card" style="width: 18rem;">
+                    {% if book.img%}
+                  <img class="card-img-top" src="{{ book.img.url }}" alt="Card image cap">
+                    {%endif%}
+                  <div class="card-body">
+                    <h5 class="card-title">{{ book.name }}</h5>
+                    <p class="card-text">
+                        <b>Genre</b> <span>{{ book.get_genre_display }}</span>
+                    </p>
+                  </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

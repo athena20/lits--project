@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="card">
+        <div class="card-body">
+            <h2>{{ book.name }}</h2>
+            <img style="width: 300px; height: 155px;" class="card-img-top float-right" src="{% if book.img %}{{ book.img.url }}{% else %}{% static 'img/default_book.jpg' %}{% endif %}" alt="Card image cap">
+            <ul>
+                {% if book.genre %}
+                    <li><b>Genre:</b> {{ book.get_genre_display }}</li>
+                {% endif %}
+                {% if book.publisher %}
+                    <li><b>Publisher:</b> {{ book.publisher }}</li>
+                {% endif %}
+                {% if book.year %}
+                    <li><b>Year:</b> {{ book.year }}</li>
+                {% endif %}
+                {% if book.author %}
+                    <li><b>Author</b> {{ book.author.username }}</li>
+                {% endif %}
+                {% if book.url %}
+                    <li><b>Buy:</b> <a href="{{ book.url }}">here</a></li>
+                {% endif %}
+            </ul>
+            {% if book.description %}
+                <span><b>Description:</b></span>
+                <p>{{ book.description }}</p>
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}

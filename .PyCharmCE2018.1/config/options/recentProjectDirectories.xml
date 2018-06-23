@@ -1,0 +1,80 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/newssite-master" />
+        <option value="$USER_HOME$/Desktop/books_new" />
+        <option value="$USER_HOME$/Desktop/books" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/Documents/books" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/newssite-master" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/newssite-master" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/books">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529132686769" />
+              <option name="buildTimestamp" value="1527148702619" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/books_new">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529590832963" />
+              <option name="buildTimestamp" value="1527148729127" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/newssite-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529747815463" />
+              <option name="buildTimestamp" value="1527148720451" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/books">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528536502922" />
+              <option name="buildTimestamp" value="1527148703834" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-181.5087.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528624233478" />
+              <option name="buildTimestamp" value="1527148698040" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

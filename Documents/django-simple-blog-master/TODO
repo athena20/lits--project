@@ -1,0 +1,11 @@
+# Create our own tags so rendering posts/comments follows DRY
+
+# Pagedown: enforce comment max length
+
+# Pagedown: can we display editor and preview side-by-side? (would look better
+  in admin dashboard)
+
+# Pagedown: left-align comment editor
+
+# Make blog post content (not comments) unsafe so the author can include HTML
+  tags

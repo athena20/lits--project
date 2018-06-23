@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="12" last-seen="1529739578"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="37.25" last-seen="1529596484"/>
+    <application id="pycharm-community_pycharm-community.desktop" open-window-count="1" score="22155.75" last-seen="1529747913"/>
+    <application id="firefox.desktop" open-window-count="1" score="17144.5" last-seen="1529747923"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1529590921"/>
+  </context>
+</application-state>

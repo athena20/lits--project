@@ -1,0 +1,166 @@
+ValueInfo.pyPendingCall.pyResultTuple.pyArrayType.pyConstantInfo.pyInterfaceInfo.pyPyGIDeprecationWarning.py	Struct.pyDirection.pyObjectInfo.pyScopeType.pyEnumInfo.pyRegisteredTypeInfo.pyCallbackInfo.pyFunctionInfoFlags.pyTypeInfo.pyUnresolvedInfo.pyPyGIWarning.pyPropertyInfo.py
+TypeTag.py	hazmat__init__.pybindings__init__.py_padding.py_openssl.py_constant_time.py__init__.py
+TagFile.pyActionGroup.py
+Package.pyIndexFile.pyHashStringList.pyTagRemove.pyPackageFile.pyMetaIndex.pySourceList.pyTagSection.pyProblemResolver.pyTagRewrite.pyPackageList.pyDependency.pyPackageRecords.pyCache.py	Policy.pyAcquireItem.pyHashString.pyCdrom.py
+Acquire.py__init__.py_PackageManager.pyError.pySystemLock.py	Tag.py	Hashes.py
+Version.pyDescription.pySourceRecords.pyGroup.pyAcquireItemDesc.pyDependencyList.pyFileLock.pyGroupList.pyAcquireFile.pyOrderList.pyPackageManager.pyAcquireWorker.pyTagRename.pyConfiguration.py_speedups.py__init__.py_imagingmorph.py_imaging.py_imagingft.py_imagingmath.py_webp.py_imagingcms.py__init__.pyDepCache.pydimensions.xmljdk.table.xmlpackages.xmlwindow.manager.xmlworkspace.xmluntitled.imlmodules.xmluntitled.idea	python3.6site-packages	python3.6site-packagesvenvlib64
+include
+pyvenv.cfglibbin
+python3	pythonactivate.csh	python3.6activateactivate.fish
+base.pyinject_meta_charset.py__init__.py	dom.py	genshi.pyetree_lxml.pyetree.py
+base.py__init__.py	sax.py	genshi.py__init__.py	dom.pyetree_lxml.pyetree.py
+base.py__init__.pylinklockfile.pysqlitelockfile.pysymlinklockfile.pypidlockfile.py__init__.pymkdirlockfile.py
+helpers.py	bar.py
+counter.py__init__.py
+spinner.pycerts.pyadapters.pyexceptions.py_internal_utils.py
+cookies.pysessions.pypackages.pystatus_codes.py
+help.pyutils.pyhooks.py__version__.py	models.py
+auth.py	api.py	compat.py__init__.pystructures.pyspecifiers.pyutils.py
+markers.pyrequirements.py
+version.py
+_compat.py__init__.py_structures.py__about__.py
+_cmd.pycontroller.pyfilewrapper.pyserialize.py	cachesheuristics.py
+adapter.pycache.py	compat.py__init__.py
+wrapper.pyredis_cache.pyfile_cache.py__init__.pytests.pyx_user_defined.py	labels.pymklabels.py__init__.pypy31compat.py__init__.pydownload.py	modelscmdoptions.pyexceptions.pyvcslocations.pybasecommand.py
+resolve.pystatus_codes.pyindex.pywheel.py
+operationsbuild_env.pypep425tags.pyutilsconfiguration.pycache.pycommands	compat.py__init__.pybaseparser.pyreqreq_file.pyreq_install.py
+req_set.pyreq_uninstall.py__init__.py	git.pymercurial.py__init__.py	bazaar.pysubversion.pyui.pytemp_dir.pypackaging.pyglibc.pysetuptools_build.py
+appdirs.pyoutdated.py	typing.py
+logging.pydeprecation.pyencoding.py	hashes.py
+misc.pyfilesystem.py__init__.pyindex.py__init__.pydownload.pycompletion.py
+show.py
+list.py
+help.pywheel.py	search.pyuninstall.py
+install.pyconfiguration.py
+hash.py	freeze.py__init__.pycheck.py
+prepare.py	freeze.py__init__.pytop_level.txtentry_points.txtPKG-INFOcheck.pydependency_links.txtnot-zip-safeSOURCES.txtrequires.txtsetuptools-39.1.0-py3.6.eggpip-10.0.1-py3.6.eggpipEGG-INFO__main__.py	_internal
+_vendor__init__.pyhtml5libcachecontrol	six.py	packagingretrying.pyrequestspyparsing.py
+appdirs.py
+chardetlockfileipaddress.pypkg_resourcescolorama
+certifi
+distlibprogress
+urllib3	distro.py	pytomlwebencodings__init__.py
+msgpackidnaidnadata.pycodec.pyintranges.py	compat.py__init__.pypackage_data.py
+core.py	parser.py	writer.py__init__.py
+core.pyuts46data.py__main__.py
+cacert.pem__init__.py
+core.pysbcsgroupprober.pygb2312freq.py
+jisfreq.pyenums.pygb2312prober.pyeuckrfreq.py	jpcntx.pylangbulgarianmodel.py
+version.pymbcharsetprober.pyhebrewprober.pycp949prober.pylatin1prober.py	mbcssm.pyeuctwprober.pycharsetgroupprober.py__init__.pycliescprober.pybig5prober.pysjisprober.pylanghungarianmodel.pylangturkishmodel.pysbcharsetprober.pyeucjpprober.pylanggreekmodel.pylangthaimodel.pybig5freq.pyescsm.pyeuctwfreq.pycharsetprober.pyeuckrprober.pymbcsgroupprober.pylangcyrillicmodel.pycodingstatemachine.pyuniversaldetector.pyutf8prober.py	compat.pychardistribution.pylanghebrewmodel.pychardetect.py__init__.py
+t32.exe
+w64.exelocators.py
+scripts.pyindex.py
+util.pywheel.pydatabase.py
+markers.pyresources.py
+version.py
+w32.exemetadata.py	_backport
+t64.exe	compat.py__init__.pymanifest.py
+tarfile.pysysconfig.pysysconfig.cfg	shutil.py
+misc.py__init__.pyexceptions.py_version.pyfallback.py__init__.py_collections.pyexceptions.py	fields.pyresponse.pypackages
+contribconnection.pypoolmanager.pyutilconnectionpool.pyfilepost.py
+request.py__init__.pyconnection.py
+ssl_.pyretry.py	url.py
+timeout.pyresponse.py
+wait.pyselectors.py
+request.py__init__.py_securetransportntlmpool.pysocks.pysecuretransport.py__init__.pyappengine.pypyopenssl.pybindings.pylow_level.py__init__.pyordered_dict.py	six.py	backportsssl_match_hostname__init__.pymakefile.py__init__.py_implementation.py__init__.py
+ansi.pyansitowin32.py
+winterm.pywin32.pyinitialise.py__init__.py_tokenizer.pytreewalkers_ihatexml.py_trie_inputstream.py
+filters	_utils.pyconstants.pyserializer.pytreeadaptershtml5parser.py__init__.pytreebuilderspy.py_base.py	datrie.py__init__.pysanitizer.py
+lint.pyalphabeticalattributes.pywhitespace.pyoptionaltags.pyx86_64-linux-gnu-gcc-nm-7
+faked-sysvdpkg-distaddfile	mtrace
+pyversions
+c99-gcc	gcov-dumppip2easy_install$!x86_64-linux-gnu-python2.7-configgcc-ranlib-7dpkg-sourcegcc-7dpkg-genbuildinfo	dpkg-name	pdb2.7x86_64-linux-gnu-gcov-dump	python
+c89-gccdpkg-checkbuilddepsc99	faked-tcpdpkg-parsechangelog	pycompilemake-first-existing-targetdpkg-genchangesmakex86_64-linux-gnu-gcc-7g++-7dpkg-gensymbols	gcov-7ccc++dpkg-scanpackagesgccx86_64-linux-gnu-gccx86_64-linux-gnu-gcc-ranlibfakeroot-sysvpython2-configsprof
+python2x86_64-linux-gnu-gcov-tool-7x86_64-linux-gnu-g++c892to3-2.7x86_64-linux-gnu-g++-7pydoc2.7	python2.72to3x86_64-linux-gnu-gcc-ar
+gcc-ranlibx86_64-linux-gnu-gcc-nmx86_64-linux-gnu-gcov-7x86_64-linux-gnu-gcov-dump-7x86_64-linux-gnu-gcov-tooldpkg-shlibdeps
+dh_python2x86_64-linux-gnu-gcov	rpcgenpydocpython2.7-configdpkg-scansources	gcc-argcc-nm-7
+pycleanpipdpkg-buildpackagepython-configdpkg-architecturex86_64-linux-gnu-gcc-ar-7fakeroot-tcp
+sotruss	pygettextg++	gcc-nmpygettext2.7dpkg-gencontrolgcov-tool-7dpkg-buildflagsgcc-ar-7	gencat	gcov-toolgcov-dump-7 x86_64-linux-gnu-gcc-ranlib-7gcovdpkg-vendorpdb!x86_64-linux-gnu-python-configfakerootdpkg-mergechangelogssetuptools-39.1.0-py3.6.eggeasy-install.pthsetuptools.ptheasy-install.pthsetuptools.pthpip3pipeasy_install-3.6easy_install	pip3.6setuptools-39.1.0-py3.6.eggEGG-INFOPKG-INFOzip-safeSOURCES.txtrequires.txttop_level.txtentry_points.txtdependency_links.txt
+setuptools	extern__init__.py
+_vendor	six.py	packagingutils.py
+_compat.py
+markers.py
+version.py__init__.py__about__.pyspecifiers.py_structures.pyrequirements.py__init__.pypyparsing.py
+cli.exe
+command
+test.pyalias.pysdist.py	rotate.py	setopt.py	upload.py
+develop.py
+install.py__init__.pybuild_py.pyegg_info.pyregister.pysaveopts.pybdist_egg.pybdist_rpm.pybuild_ext.pydist_info.pybuild_clib.pypy36compat.pyinstall_lib.pyupload_docs.pyeasy_install.pybdist_wininst.pyinstall_scripts.pyinstall_egg_info.pylauncher manifest.xml
+dist.py
+glob.py
+gui.exe
+msvc.pyglibc.pywheel.py	config.py	launch.py	monkey.py
+cli-32.exe
+cli-64.exe
+depends.py
+gui-32.exe
+gui-64.exe
+sandbox.py
+version.py__init__.pydep_util.pyscript.tmplextension.pybuild_meta.pylib2to3_ex.pynamespaces.pypep425tags.pypy27compat.pypy31compat.pypy33compat.pypy36compat.pysite-patch.pyssl_support.pyarchive_util.pypackage_index.pyunicode_utils.pyscript (dev).tmplwindows_support.pypkg_resources	extern__init__.py
+_vendor	six.py	packagingutils.py
+_compat.py
+markers.py
+version.py__init__.py__about__.pyspecifiers.py_structures.pyrequirements.py
+appdirs.py__init__.pypyparsing.py__init__.pypy31compat.pyeasy_install.py
+1137946638gc.py	_io.py	grp.py	nis.py	pwd.py	sys.py
+_ast.py
+_bz2.py
+_csv.py
+_dbm.py
+_imp.py
+_md5.py
+_sre.py
+_ssl.py
+math.py
+mmap.py
+spwd.py
+time.py
+zlib.py_gdbm.py_json.py_lzma.py_sha1.py_sha3.py_stat.pyarray.pycmath.pyerrno.pyfcntl.pyposix.py	_crypt.py	_heapq.py	atexit.py	parser.py	select.py	syslog.py
+_bisect.py
+_blake2.py
+_codecs.py
+_ctypes.py
+_curses.py
+_locale.py
+_lsprof.py
+_opcode.py
+_pickle.py
+_random.py
+_sha256.py
+_sha512.py
+_signal.py
+_socket.py
+_string.py
+_struct.py
+_thread.py
+audioop.py
+marshal.py
+pyexpat.py
+termios.py_asyncio.py_decimal.py_hashlib.py_sqlite3.py_weakref.pybinascii.pybuiltins.pyreadline.pyresource.py_datetime.py_operator.py_symtable.py_testcapi.py_warnings.pyitertools.pyxxlimited.pyxxsubtype.pyzipimport.py_codecs_cn.py_codecs_hk.py_codecs_jp.py_codecs_kr.py_codecs_tw.py_functools.py_testbuffer.pyossaudiodev.pyunicodedata.py_collections.py_ctypes_test.py_elementtree.py_tracemalloc.pyfaulthandler.py_curses_panel.py_codecs_iso2022.py_multibytecodec.py_testmultiphase.py_multiprocessing.py_posixsubprocess.py_testimportmultiple.pymisc.xmlworkspace.xml
+ui.lnf.xml	books.imlmisc.xmlmodules.xmlbooks.ideabooks
+urls.py
+wsgi.py__init__.pysettings.pymediabooks
+blabla.jpgUntitled.pngportfol4.pngportfol4_AnnrmTe.pngportfol4_ho52d4s.png
+mybooks
+apps.pyadmin.pytests.pyviews.py	models.py
+migrations0012_boo.py__init__.py0001_initial.py0005_book_img.py0011_book_url.py0003_book_year.py0004_book_genre.py0002_book_publisher.py0006_auto_20180602_0934.py0007_auto_20180602_0942.py0008_auto_20180602_0943.py0009_auto_20180602_0944.py0010_auto_20180602_0946.py__init__.py	manage.py	templates	main.html
+db.sqlite3workspace.xmlNAVBAR.htmladd_book_page.htmlforms.py	base.htmlforms.py	forms.pyc	forms.pyc	Static	Static
+Custom.cssworkspace.xml___jb_tmp___	books_new.ideamisc.xml	books.imlmodules.xmlworkspace.xmldataSources.xmldataSources.local.xmlbooks
+urls.py
+wsgi.pyforms.py__init__.pysettings.pymediabooks
+blabla.jpgUntitled.pngportfol2.jpgportfol4.pngportfol4_AnnrmTe.pngportfol4_ho52d4s.png	staticcss
+custom.cssimgdefault_book.jpg
+mybooks
+apps.pyadmin.pyforms.pytests.pyviews.py	models.py
+migrations0012_boo.py__init__.py0001_initial.py0005_book_img.py0011_book_url.py0003_book_year.py0004_book_genre.py0002_book_publisher.py0006_auto_20180602_0934.py0007_auto_20180602_0942.py0008_auto_20180602_0943.py0009_auto_20180602_0944.py0010_auto_20180602_0946.py__init__.py	manage.py	templates	base.html	main.htmlnavbar.htmlsingle_book.htmladd_book_form.html
+db.sqlite3initrd.img.oldvmlinuz.oldnewssite-masternews
+apps.pyadmin.pytests.pyviews.py	models.py
+migrations__init__.py__init__.py.idea
+vcs.xmlmisc.xmlmodules.xmlnewssite.imlworkspace.xmlnewssite
+urls.py
+wsgi.py__init__.pysettings.py	manage.py	templates	base.html	main.htmlnavbar.html
+db.sqlite3__init__.pyc0001_initial.pyc0001_initial.py
+models.pyc	admin.pyc	staticmediacss	style.cssnews*'Screenshot_from_2018-06-06_19-01-28.png*'Screenshot_from_2018-06-08_21-56-39.png
+Satia.html0002_news_carddate.py0002_news_carddate.pyc0003_newsinline.py0003_newsinline.pyc0004_remove_news_carddate.py 0004_remove_news_carddate.pyc
+db.sqlite3
+db.sqlite30001_initial.py0001_initial.pycbaseRefactoring.xmlportfol4.pngStatia.html

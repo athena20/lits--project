@@ -1,0 +1,1099 @@
+2018-06-09 11:06:08,679 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-09 11:06:08,975 [    296]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:08) 
+2018-06-09 11:06:08,975 [    296]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-09 11:06:08,975 [    296]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-09 11:06:08,975 [    296]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-09 11:06:08,980 [    301]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/opt/pycharm-community-2018.1.4/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-09 11:06:08,980 [    301]   INFO -        #com.intellij.idea.Main - ext: /opt/pycharm-community-2018.1.4/jre64/lib/ext: [sunjce_provider.jar, dnsns.jar, localedata.jar, jfxrt.jar, cldrdata.jar, nashorn.jar, zipfs.jar, sunpkcs11.jar, meta-index, sunec.jar, jaccess.jar] 
+2018-06-09 11:06:08,981 [    302]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-09 11:06:09,026 [    347]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 44 ms 
+2018-06-09 11:06:10,158 [   1479]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-09 11:06:10,160 [   1481]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-09 11:06:42,511 [  33832]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@60595a61[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@87b6f0c 
+2018-06-09 11:06:42,611 [  33932]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-09 11:06:42,614 [  33935]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-09 11:06:45,055 [  36376]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 1806 ms 
+2018-06-09 11:06:45,056 [  36377]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-09 11:06:46,284 [  37605]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/student/.PyCharmCE2018.1/system/caches/names.dat' does not exist 
+2018-06-09 11:06:46,292 [  37613]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-09 11:06:46,411 [  37732]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/pycharm-community-2018.1.4/bin/fsnotifier64 
+2018-06-09 11:06:46,469 [  37790]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-09 11:06:48,141 [  39462]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-09 11:06:48,179 [  39500]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-09 11:06:48,285 [  39606]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-06-09 11:06:48,285 [  39606]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-06-09 11:06:48,588 [  39909]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-09 11:06:49,191 [  40512]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@47663be6 
+2018-06-09 11:06:50,109 [  41430]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-09 11:06:50,315 [  41636]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-09 11:06:50,729 [  42050]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-09 11:06:51,535 [  42856]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:413, number of extensions:18 
+2018-06-09 11:06:51,599 [  42920]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:63 
+2018-06-09 11:06:51,812 [  43133]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:175, number of extensions:10 
+2018-06-09 11:06:51,812 [  43133]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-09 11:06:52,548 [  43869]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@16edc466 
+2018-06-09 11:06:52,549 [  43870]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@4df2d000 
+2018-06-09 11:06:52,556 [  43877]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@243d1753 
+2018-06-09 11:06:53,196 [  44517]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-09 11:06:53,253 [  44574]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-09 11:06:53,271 [  44592]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 10053ms 
+2018-06-09 11:06:53,413 [  44734]   INFO - .intellij.idea.IdeaApplication - App initialization took 46261 ms 
+2018-06-09 11:06:54,799 [  46120]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:XML,Python,Properties,PythonStub,HTML 
+2018-06-09 11:06:55,835 [  47156]   INFO - pl$FileIndexDataInitialization - Initialization done:4244 
+2018-06-09 11:06:56,104 [  47425]   INFO - exImpl$StubIndexInitialization - Initialization done:268 
+2018-06-09 11:06:57,219 [  48540]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 09.06.18 11:06) 
+2018-06-09 11:06:59,471 [  50792]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3f719454 
+2018-06-09 11:06:59,766 [  51087]   INFO - j.ide.ui.OptionsTopHitProvider - 3846 ms spent to cache options in application 
+2018-06-09 11:07:00,698 [  52019]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@48fd25a9 
+2018-06-09 11:07:01,227 [  52548]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@7ba70c20 
+2018-06-09 11:07:01,238 [  52559]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@66595855 
+2018-06-09 11:07:24,776 [  76097]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-06-09 11:07:24,787 [  76108]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-06-09 11:07:24,787 [  76108]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-06-09 11:07:25,067 [  76388]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-06-09 11:07:25,087 [  76408]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-09 11:07:25,104 [  76425]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2018-06-09 11:07:25,122 [  76443]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-06-09 11:07:25,125 [  76446]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-06-09 11:07:25,149 [  76470]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-06-09 11:07:25,168 [  76489]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-06-09 11:07:25,184 [  76505]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-09 11:07:39,677 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-09 11:07:40,069 [    392]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:40) 
+2018-06-09 11:07:40,070 [    393]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-09 11:07:40,070 [    393]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-09 11:07:40,072 [    395]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-09 11:07:40,088 [    411]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-09 11:07:40,089 [    412]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-09 11:07:40,089 [    412]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-09 11:07:40,142 [    465]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 53 ms 
+2018-06-09 11:07:41,405 [   1728]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-09 11:07:41,406 [   1729]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-09 11:07:41,910 [   2233]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@653437ba[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@483be500 
+2018-06-09 11:07:42,187 [   2510]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-09 11:07:42,189 [   2512]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-09 11:07:48,163 [   8486]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 4854 ms 
+2018-06-09 11:07:48,178 [   8501]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-09 11:07:50,755 [  11078]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-09 11:07:50,838 [  11161]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-09 11:07:50,887 [  11210]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-09 11:07:53,971 [  14294]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-09 11:07:54,068 [  14391]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-09 11:07:55,575 [  15898]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@5b52391e 
+2018-06-09 11:07:56,489 [  16812]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-09 11:07:57,468 [  17791]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-09 11:07:57,532 [  17855]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-09 11:07:58,539 [  18862]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:281, number of extensions:18 
+2018-06-09 11:07:58,549 [  18872]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:9 
+2018-06-09 11:07:58,687 [  19010]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:70, number of extensions:10 
+2018-06-09 11:07:58,688 [  19011]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-09 11:08:00,180 [  20503]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@397fbd75 
+2018-06-09 11:08:00,199 [  20522]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@82eb95 
+2018-06-09 11:08:00,199 [  20522]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@4d71b8fa 
+2018-06-09 11:08:00,200 [  20523]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-09 11:08:00,214 [  20537]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 16945ms 
+2018-06-09 11:08:00,251 [  20574]   INFO - .intellij.idea.IdeaApplication - App initialization took 23185 ms 
+2018-06-09 11:08:08,929 [  29252]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-09 11:08:15,325 [  35648]   INFO - j.ide.ui.OptionsTopHitProvider - 8851 ms spent to cache options in application 
+2018-06-09 11:08:17,467 [  37790]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-09 11:08:17,567 [  37890]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3534462d 
+2018-06-09 11:08:19,291 [  39614]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@5000aa6e 
+2018-06-09 11:08:20,325 [  40648]   INFO - pl$FileIndexDataInitialization - Initialization done:21776 
+2018-06-09 11:08:20,388 [  40711]   INFO - exImpl$StubIndexInitialization - Initialization done:63 
+2018-06-09 11:08:20,638 [  40961]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@b56fa12 
+2018-06-09 11:08:20,659 [  40982]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@318e0209 
+2018-06-09 11:25:44,034 [      1]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-09 11:25:44,658 [    625]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:44) 
+2018-06-09 11:25:44,658 [    625]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-09 11:25:44,658 [    625]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-09 11:25:44,658 [    625]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-09 11:25:44,706 [    673]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-09 11:25:44,707 [    674]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-09 11:25:44,707 [    674]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-09 11:25:44,776 [    743]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 68 ms 
+2018-06-09 11:25:50,829 [   6796]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-09 11:25:50,835 [   6802]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-09 11:25:53,610 [   9577]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@611b03a6[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@daad298 
+2018-06-09 11:25:54,794 [  10761]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-09 11:25:54,820 [  10787]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-09 11:26:04,928 [  20895]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 3659 ms 
+2018-06-09 11:26:04,963 [  20930]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-09 11:26:08,030 [  23997]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-09 11:26:08,221 [  24188]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-09 11:26:08,372 [  24339]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-09 11:26:13,747 [  29714]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-09 11:26:13,883 [  29850]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-09 11:26:16,312 [  32279]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@41c1aeff 
+2018-06-09 11:26:17,961 [  33928]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-09 11:26:19,827 [  35794]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-09 11:26:21,529 [  37496]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-09 11:26:28,365 [  44332]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:3893, number of extensions:18 
+2018-06-09 11:26:28,823 [  44790]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:457 
+2018-06-09 11:26:29,855 [  45822]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:311, number of extensions:10 
+2018-06-09 11:26:30,014 [  45981]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:158 
+2018-06-09 11:26:35,713 [  51680]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@7dceb8b6 
+2018-06-09 11:26:35,718 [  51685]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@50937958 
+2018-06-09 11:26:35,718 [  51685]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@70a462f1 
+2018-06-09 11:26:35,813 [  51780]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-09 11:26:35,920 [  51887]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 34773ms 
+2018-06-09 11:26:36,054 [  52021]   INFO - .intellij.idea.IdeaApplication - App initialization took 57100 ms 
+2018-06-09 11:26:49,530 [  65497]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-09 11:27:15,877 [  91844]   INFO - pl$FileIndexDataInitialization - Initialization done:47054 
+2018-06-09 11:27:15,973 [  91940]   INFO - exImpl$StubIndexInitialization - Initialization done:87 
+2018-06-09 11:27:16,759 [  92726]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-09 11:27:25,498 [ 101465]   INFO - j.ide.ui.OptionsTopHitProvider - 13022 ms spent to cache options in application 
+2018-06-09 11:27:32,220 [ 108187]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@1121a55a 
+2018-06-09 11:27:33,176 [ 109143]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@1d16c497 
+2018-06-09 11:27:34,222 [ 110189]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@459d6fcb 
+2018-06-09 11:27:34,383 [ 110350]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@580d23a3 
+2018-06-09 11:36:15,976 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-09 11:36:16,219 [    243]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:16) 
+2018-06-09 11:36:16,219 [    243]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-09 11:36:16,219 [    243]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-09 11:36:16,220 [    244]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-09 11:36:16,234 [    258]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-09 11:36:16,234 [    258]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-09 11:36:16,234 [    258]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-09 11:36:16,266 [    290]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 31 ms 
+2018-06-09 11:36:16,856 [    880]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-09 11:36:16,856 [    880]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-09 11:36:17,328 [   1352]   INFO - .intellij.idea.IdeaApplication - CPU cores: 2; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@34f448bc[Running, parallelism = 2, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@271a909d 
+2018-06-09 11:36:17,565 [   1589]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-09 11:36:17,568 [   1592]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-09 11:36:19,963 [   3987]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 1909 ms 
+2018-06-09 11:36:19,964 [   3988]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-09 11:36:21,292 [   5316]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=713 
+2018-06-09 11:36:21,350 [   5374]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-09 11:36:21,361 [   5385]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-09 11:36:22,709 [   6733]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-09 11:36:22,761 [   6785]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-09 11:36:23,443 [   7467]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@45fdfc9d 
+2018-06-09 11:36:23,713 [   7737]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-09 11:36:23,910 [   7934]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-09 11:36:24,063 [   8087]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-09 11:36:24,457 [   8481]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:132, number of extensions:18 
+2018-06-09 11:36:24,467 [   8491]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:10 
+2018-06-09 11:36:24,502 [   8526]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:4, number of extensions:10 
+2018-06-09 11:36:24,502 [   8526]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-09 11:36:24,974 [   8998]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@41f5296 
+2018-06-09 11:36:24,975 [   8999]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@5ac6d431 
+2018-06-09 11:36:24,975 [   8999]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@4286a262 
+2018-06-09 11:36:24,976 [   9000]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-09 11:36:25,023 [   9047]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 6992ms 
+2018-06-09 11:36:25,042 [   9066]   INFO - .intellij.idea.IdeaApplication - App initialization took 10837 ms 
+2018-06-09 11:36:26,887 [  10911]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-09 11:36:29,078 [  13102]   INFO - j.ide.ui.OptionsTopHitProvider - 2633 ms spent to cache options in application 
+2018-06-09 11:36:30,547 [  14571]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@4bd21fc3 
+2018-06-09 11:36:30,585 [  14609]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-09 11:36:31,066 [  15090]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@20d7fcb7 
+2018-06-09 11:36:31,263 [  15287]   INFO - pl$FileIndexDataInitialization - Initialization done:6796 
+2018-06-09 11:36:31,294 [  15318]   INFO - exImpl$StubIndexInitialization - Initialization done:30 
+2018-06-09 11:36:31,347 [  15371]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@1447418 
+2018-06-09 11:36:31,349 [  15373]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@2366f64b 
+2018-06-09 11:39:36,940 [ 200964]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 482 ms 
+2018-06-09 11:39:52,572 [ 216596]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 1484 ms 
+2018-06-09 11:39:52,578 [ 216602]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-06-09 11:39:53,659 [ 217683]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 129 ms 
+2018-06-09 11:39:53,672 [ 217696]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-09 11:39:53,675 [ 217699]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-09 11:39:53,684 [ 217708]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-09 11:39:54,432 [ 218456]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-09 11:39:56,593 [ 220617]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 188ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 11:39:58,241 [ 222265]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 1265ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-06-09 11:39:58,758 [ 222782]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 181ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 11:39:59,048 [ 223072]   INFO - tartup.impl.StartupManagerImpl - /home/student/Documents/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-09 11:39:59,238 [ 223262]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-09 11:39:59,700 [ 223724]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8735 ms 
+2018-06-09 11:40:02,439 [ 226463]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3669ms; general responsiveness: ok; EDT responsiveness: 2/4 sluggish 
+2018-06-09 11:40:02,469 [ 226493]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 3157 files to update 
+2018-06-09 11:40:06,757 [ 230781]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-09 11:40:07,241 [ 231265]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-09 11:41:13,001 [ 297025]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 70532ms; general responsiveness: ok; EDT responsiveness: 1/70 sluggish, 2/70 very slow 
+2018-06-09 11:41:13,236 [ 297260]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-09 11:41:13,237 [ 297261]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 182ms on UI thread 
+2018-06-09 11:41:13,404 [ 297428]   INFO - tartup.impl.StartupManagerImpl - PyPackagesUpdater run in 123ms on UI thread 
+2018-06-09 11:41:15,315 [ 299339]   INFO - j.ide.ui.OptionsTopHitProvider - 978 ms spent to cache options in project 
+2018-06-09 11:41:16,762 [ 300786]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 427 ms 
+2018-06-09 11:41:16,784 [ 300808]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-09 11:41:16,787 [ 300811]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-09 11:41:16,795 [ 300819]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-09 11:41:16,826 [ 300850]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-09 11:41:16,865 [ 300889]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-09 11:41:18,648 [ 302672]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1577 ms 
+2018-06-09 11:41:18,653 [ 302677]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-09 11:41:28,396 [ 312420]   INFO - .skeletons.PySkeletonGenerator - Rebuilding builtin skeletons took 9742 ms 
+2018-06-09 11:41:28,409 [ 312433]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._AES 
+2018-06-09 11:41:28,903 [ 312927]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._ARC2 
+2018-06-09 11:41:29,165 [ 313189]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._ARC4 
+2018-06-09 11:41:29,388 [ 313412]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._Blowfish 
+2018-06-09 11:41:29,685 [ 313709]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._CAST 
+2018-06-09 11:41:29,935 [ 313959]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._DES 
+2018-06-09 11:41:30,162 [ 314186]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._DES3 
+2018-06-09 11:41:30,418 [ 314442]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._XOR 
+2018-06-09 11:41:30,700 [ 314724]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._MD2 
+2018-06-09 11:41:30,944 [ 314968]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._MD4 
+2018-06-09 11:41:31,172 [ 315196]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._RIPEMD160 
+2018-06-09 11:41:31,394 [ 315418]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA224 
+2018-06-09 11:41:31,707 [ 315731]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA256 
+2018-06-09 11:41:31,987 [ 316011]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA384 
+2018-06-09 11:41:32,214 [ 316238]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA512 
+2018-06-09 11:41:32,453 [ 316477]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.PublicKey._fastmath 
+2018-06-09 11:41:32,682 [ 316706]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Util._counter 
+2018-06-09 11:41:32,903 [ 316927]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Util.strxor 
+2018-06-09 11:41:33,149 [ 317173]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imaging 
+2018-06-09 11:41:33,396 [ 317420]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingcms 
+2018-06-09 11:41:33,635 [ 317659]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingft 
+2018-06-09 11:41:33,873 [ 317897]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingmath 
+2018-06-09 11:41:34,087 [ 318111]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingmorph 
+2018-06-09 11:41:34,307 [ 318331]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._webp 
+2018-06-09 11:41:34,520 [ 318544]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _asyncio 
+2018-06-09 11:41:35,483 [ 319507]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _bz2 
+2018-06-09 11:41:35,803 [ 319827]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _cffi_backend 
+2018-06-09 11:41:36,168 [ 320192]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_cn 
+2018-06-09 11:41:36,485 [ 320509]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_hk 
+2018-06-09 11:41:36,721 [ 320745]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_iso2022 
+2018-06-09 11:41:37,038 [ 321062]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_jp 
+2018-06-09 11:41:37,280 [ 321304]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_kr 
+2018-06-09 11:41:37,551 [ 321575]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_tw 
+2018-06-09 11:41:37,886 [ 321910]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _crypt 
+2018-06-09 11:41:38,197 [ 322221]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _csv 
+2018-06-09 11:41:38,459 [ 322483]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes 
+2018-06-09 11:41:38,739 [ 322763]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes_test 
+2018-06-09 11:41:39,211 [ 323235]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses 
+2018-06-09 11:41:39,467 [ 323491]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses_panel 
+2018-06-09 11:41:39,857 [ 323881]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbm 
+2018-06-09 11:41:40,083 [ 324107]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbus_bindings 
+2018-06-09 11:41:40,677 [ 324701]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbus_glib_bindings 
+2018-06-09 11:41:40,905 [ 324929]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _decimal 
+2018-06-09 11:41:41,231 [ 325255]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _gdbm 
+2018-06-09 11:41:41,452 [ 325476]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _hashlib 
+2018-06-09 11:41:41,686 [ 325710]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _json 
+2018-06-09 11:41:41,921 [ 325945]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lsprof 
+2018-06-09 11:41:42,202 [ 326226]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lzma 
+2018-06-09 11:41:42,662 [ 326686]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multibytecodec 
+2018-06-09 11:41:43,081 [ 327105]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multiprocessing 
+2018-06-09 11:41:43,371 [ 327395]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _opcode 
+2018-06-09 11:41:43,634 [ 327658]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _sqlite3 
+2018-06-09 11:41:44,395 [ 328419]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ssl 
+2018-06-09 11:41:45,077 [ 329101]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testbuffer 
+2018-06-09 11:41:45,313 [ 329337]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testcapi 
+2018-06-09 11:41:45,558 [ 329582]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testimportmultiple 
+2018-06-09 11:41:45,790 [ 329814]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testmultiphase 
+2018-06-09 11:41:46,092 [ 330116]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _yaml 
+2018-06-09 11:41:46,494 [ 330518]   INFO - .skeletons.PySkeletonRefresher - Skeleton for apt_inst 
+2018-06-09 11:41:47,076 [ 331100]   INFO - .skeletons.PySkeletonRefresher - Skeleton for apt_pkg 
+2018-06-09 11:41:48,286 [ 332310]   INFO - .skeletons.PySkeletonRefresher - Skeleton for audioop 
+2018-06-09 11:41:48,546 [ 332570]   INFO - .skeletons.PySkeletonRefresher - Skeleton for brlapi 
+2018-06-09 11:41:48,808 [ 332832]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cairo._cairo 
+2018-06-09 11:41:49,099 [ 333123]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cmath 
+2018-06-09 11:41:49,330 [ 333354]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._constant_time 
+2018-06-09 11:41:49,581 [ 333605]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._openssl 
+2018-06-09 11:41:49,893 [ 333917]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._padding 
+2018-06-09 11:41:50,228 [ 334252]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cups 
+2018-06-09 11:41:51,375 [ 335399]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cupsext 
+2018-06-09 11:41:51,874 [ 335898]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gi._gi 
+2018-06-09 11:41:52,223 [ 336247]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gi._gi_cairo 
+2018-06-09 11:41:52,634 [ 336658]   INFO - .skeletons.PySkeletonRefresher - Skeleton for hpmudext 
+2018-06-09 11:41:53,169 [ 337193]   INFO - .skeletons.PySkeletonRefresher - Skeleton for markupsafe._speedups 
+2018-06-09 11:41:53,584 [ 337608]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mmap 
+2018-06-09 11:41:53,902 [ 337926]   INFO - .skeletons.PySkeletonRefresher - Skeleton for nis 
+2018-06-09 11:41:54,183 [ 338207]   INFO - .skeletons.PySkeletonRefresher - Skeleton for ossaudiodev 
+2018-06-09 11:41:54,587 [ 338611]   INFO - .skeletons.PySkeletonRefresher - Skeleton for parser 
+2018-06-09 11:41:54,959 [ 338983]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pcardext 
+2018-06-09 11:41:55,320 [ 339344]   INFO - .skeletons.PySkeletonRefresher - Skeleton for readline 
+2018-06-09 11:41:55,779 [ 339803]   INFO - .skeletons.PySkeletonRefresher - Skeleton for reportlab.graphics._renderPM 
+2018-06-09 11:41:56,161 [ 340185]   INFO - .skeletons.PySkeletonRefresher - Skeleton for reportlab.lib._rl_accel 
+2018-06-09 11:41:56,897 [ 340921]   INFO - .skeletons.PySkeletonRefresher - Skeleton for resource 
+2018-06-09 11:41:57,438 [ 341462]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scanext 
+2018-06-09 11:41:57,816 [ 341840]   INFO - .skeletons.PySkeletonRefresher - Skeleton for simplejson._speedups 
+2018-06-09 11:41:58,085 [ 342109]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._daemon 
+2018-06-09 11:41:58,414 [ 342438]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._journal 
+2018-06-09 11:41:58,773 [ 342797]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._reader 
+2018-06-09 11:41:59,205 [ 343229]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd.id128 
+2018-06-09 11:41:59,523 [ 343547]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd.login 
+2018-06-09 11:41:59,857 [ 343881]   INFO - .skeletons.PySkeletonRefresher - Skeleton for termios 
+2018-06-09 11:42:00,151 [ 344175]   INFO - .skeletons.PySkeletonRefresher - Skeleton for xxlimited 
+2018-06-09 11:42:00,421 [ 344445]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zope.interface._zope_interface_coptimizations 
+2018-06-09 11:42:00,671 [ 344695]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 32263 ms 
+2018-06-09 11:42:00,892 [ 344916]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK /usr/bin/python3.6 
+2018-06-09 11:42:00,898 [ 344922]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-09 11:42:00,945 [ 344969]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-09 11:42:00,954 [ 344978]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-09 11:42:01,365 [ 345389]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 322 to update, calculated in 308ms 
+2018-06-09 11:42:06,812 [ 350836]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 5446ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 11:43:10,110 [ 414134]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-09 13:44:11,194 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-09 13:44:11,459 [    265]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:11) 
+2018-06-09 13:44:11,459 [    265]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-09 13:44:11,459 [    265]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-09 13:44:11,459 [    265]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-09 13:44:11,472 [    278]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-09 13:44:11,472 [    278]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-09 13:44:11,472 [    278]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-09 13:44:11,511 [    317]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 38 ms 
+2018-06-09 13:44:12,191 [    997]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-09 13:44:12,192 [    998]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-09 13:44:12,528 [   1334]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@5dd85980[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4c9bfc30 
+2018-06-09 13:44:12,704 [   1510]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-09 13:44:12,706 [   1512]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-09 13:44:16,833 [   5639]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 3580 ms 
+2018-06-09 13:44:16,838 [   5644]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-09 13:44:18,491 [   7297]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-09 13:44:18,578 [   7384]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-09 13:44:18,605 [   7411]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-09 13:44:20,616 [   9422]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-09 13:44:20,677 [   9483]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-09 13:44:21,727 [  10533]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@8cbb537 
+2018-06-09 13:44:22,497 [  11303]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-09 13:44:22,982 [  11788]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-09 13:44:23,100 [  11906]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-09 13:44:23,727 [  12533]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:203, number of extensions:18 
+2018-06-09 13:44:23,737 [  12543]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:9 
+2018-06-09 13:44:23,799 [  12605]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:23, number of extensions:10 
+2018-06-09 13:44:23,812 [  12618]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:12 
+2018-06-09 13:44:24,430 [  13236]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@5b5baf 
+2018-06-09 13:44:24,430 [  13236]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@115bc579 
+2018-06-09 13:44:24,431 [  13237]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@7c1961a8 
+2018-06-09 13:44:24,445 [  13251]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-09 13:44:24,458 [  13264]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 11219ms 
+2018-06-09 13:44:24,488 [  13294]   INFO - .intellij.idea.IdeaApplication - App initialization took 15105 ms 
+2018-06-09 13:44:33,780 [  22586]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3f6b35b5 
+2018-06-09 13:44:35,994 [  24800]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@1f8fc78e 
+2018-06-09 13:44:36,537 [  25343]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-09 13:44:37,174 [  25980]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-09 13:44:37,791 [  26597]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@5567702c 
+2018-06-09 13:44:37,843 [  26649]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@58e20012 
+2018-06-09 13:44:38,785 [  27591]   INFO - pl$FileIndexDataInitialization - Initialization done:15048 
+2018-06-09 13:44:38,835 [  27641]   INFO - exImpl$StubIndexInitialization - Initialization done:50 
+2018-06-09 13:44:38,911 [  27717]   INFO - j.ide.ui.OptionsTopHitProvider - 4099 ms spent to cache options in application 
+2018-06-09 13:44:45,080 [  33886]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 291 ms 
+2018-06-09 13:45:02,408 [  51214]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2018-06-09 13:45:10,154 [  58960]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 992 ms 
+2018-06-09 13:45:10,160 [  58966]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-06-09 13:45:11,159 [  59965]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-09 13:45:14,892 [  63698]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 637ms; general responsiveness: 1/1 sluggish; EDT responsiveness: ok 
+2018-06-09 13:45:15,503 [  64309]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:45:16,372 [  65178]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 146ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:45:16,992 [  65798]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 613ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-06-09 13:45:17,002 [  65808]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py pyvenv /home/student/PycharmProjects/untitled/venv 
+2018-06-09 13:45:17,686 [  66492]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-09 13:45:17,686 [  66492]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 409ms on UI thread 
+2018-06-09 13:45:19,538 [  68344]   INFO - j.ide.ui.OptionsTopHitProvider - 1289 ms spent to cache options in project 
+2018-06-09 13:45:19,777 [  68583]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-09 13:45:20,169 [  68975]   INFO - packaging.PyPackageManagerImpl - Error: Python packaging tool 'setuptools' not found
+
+Exit code 3 
+2018-06-09 13:45:20,209 [  69015]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 4 to update, calculated in 212ms 
+2018-06-09 13:45:20,227 [  69033]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /snap/pycharm-community/64/helpers/packaging_tool.py untar /snap/pycharm-community/64/helpers/setuptools-39.1.0.tar.gz 
+2018-06-09 13:45:21,181 [  69987]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /tmp/tmposjdjgyapycharm-management/setuptools-39.1.0/setup.py install 
+2018-06-09 13:45:21,370 [  70176]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 1161ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-06-09 13:45:24,865 [  73671]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /snap/pycharm-community/64/helpers/packaging_tool.py untar /snap/pycharm-community/64/helpers/pip-10.0.1.tar.gz 
+2018-06-09 13:45:25,391 [  74197]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /tmp/tmplm6lpqvtpycharm-management/pip-10.0.1/setup.py install 
+2018-06-09 13:45:29,680 [  78486]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -c . '/home/student/PycharmProjects/untitled/venv/bin/activate';'/snap/pycharm-community/64/bin/printenv.py' '/tmp/intellij-shell-env.tmp' 
+2018-06-09 13:45:29,798 [  78604]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (69 vars) 
+2018-06-09 13:45:29,882 [  78688]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 198 ms 
+2018-06-09 13:45:29,884 [  78690]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-09 13:45:30,195 [  79001]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python)): /home/student/.PyCharmCE2018.1/system/python_stubs/1137946638 
+2018-06-09 13:45:30,201 [  79007]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-09 13:45:30,318 [  79124]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-06-09 13:45:30,472 [  79278]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-06-09 13:45:30,483 [  79289]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-06-09 13:45:30,555 [  79361]   INFO - tartup.impl.StartupManagerImpl - /home/student/PycharmProjects/untitled/.idea case-sensitivity: expected=true actual=true 
+2018-06-09 13:45:30,595 [  79401]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-09 13:45:32,176 [  80982]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python) 
+2018-06-09 13:45:32,228 [  81034]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/student/PycharmProjects/untitled/venv/bin/python 
+2018-06-09 13:45:32,687 [  81493]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 291 to update, calculated in 676ms 
+2018-06-09 13:45:33,036 [  81842]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 23894 ms 
+2018-06-09 13:45:33,914 [  82720]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1527 ms 
+2018-06-09 13:45:33,917 [  82723]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-09 13:45:35,469 [  84275]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1479 ms 
+2018-06-09 13:45:45,415 [  94221]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-09 13:45:51,681 [ 100487]   INFO - .skeletons.PySkeletonGenerator - Rebuilding builtin skeletons took 16116 ms 
+2018-06-09 13:45:51,806 [ 100612]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 96 ms 
+2018-06-09 13:45:51,812 [ 100618]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python) 
+2018-06-09 13:45:51,827 [ 100633]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-09 13:46:14,539 [ 123345]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 41852ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:46:14,828 [ 123634]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 281ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:46:14,839 [ 123645]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:46:15,402 [ 124208]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 563ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:46:15,402 [ 124208]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 473 files to update 
+2018-06-09 13:46:34,636 [ 143442]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 19234ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-09 13:46:34,640 [ 143446]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2018-06-10 12:34:56,235 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-10 12:34:56,745 [    510]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:56) 
+2018-06-10 12:34:56,745 [    510]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-10 12:34:56,745 [    510]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-10 12:34:56,745 [    510]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-10 12:34:56,767 [    532]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-10 12:34:56,768 [    533]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-10 12:34:56,768 [    533]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-10 12:34:56,841 [    606]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 72 ms 
+2018-06-10 12:34:57,924 [   1689]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-10 12:34:57,924 [   1689]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-10 12:34:58,591 [   2356]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@3bc0886c[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@46d98f91 
+2018-06-10 12:34:59,075 [   2840]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-10 12:34:59,077 [   2842]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-10 12:35:07,032 [  10797]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 6200 ms 
+2018-06-10 12:35:07,078 [  10843]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-10 12:35:10,872 [  14637]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-10 12:35:11,033 [  14798]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-10 12:35:11,080 [  14845]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-10 12:35:14,915 [  18680]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-10 12:35:15,031 [  18796]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-10 12:35:17,099 [  20864]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@1077144d 
+2018-06-10 12:35:18,740 [  22505]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-10 12:35:19,899 [  23664]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-10 12:35:19,906 [  23671]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-10 12:35:21,533 [  25298]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:647, number of extensions:18 
+2018-06-10 12:35:21,562 [  25327]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:29 
+2018-06-10 12:35:21,720 [  25485]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:69, number of extensions:10 
+2018-06-10 12:35:21,724 [  25489]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2018-06-10 12:35:24,133 [  27898]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@49d7ff42 
+2018-06-10 12:35:24,179 [  27944]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@23cb8cef 
+2018-06-10 12:35:24,180 [  27945]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@584b3fb0 
+2018-06-10 12:35:24,189 [  27954]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-10 12:35:24,215 [  27980]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 23416ms 
+2018-06-10 12:35:24,352 [  28117]   INFO - .intellij.idea.IdeaApplication - App initialization took 31388 ms 
+2018-06-10 12:35:50,799 [  54564]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@2753c39b 
+2018-06-10 12:35:51,290 [  55055]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-10 12:35:54,471 [  58236]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@46c3401d 
+2018-06-10 12:35:54,704 [  58469]   INFO - pl$FileIndexDataInitialization - Initialization done:33142 
+2018-06-10 12:35:54,826 [  58591]   INFO - exImpl$StubIndexInitialization - Initialization done:119 
+2018-06-10 12:35:55,414 [  59179]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-10 12:35:55,677 [  59442]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@8139433 
+2018-06-10 12:35:55,719 [  59484]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@7a74b92d 
+2018-06-10 12:35:57,080 [  60845]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 20115 ms 
+2018-06-10 12:35:57,907 [  61672]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 743 ms 
+2018-06-10 12:35:58,068 [  61833]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-10 12:36:02,057 [  65822]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 256ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:36:03,878 [  67643]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 409ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:36:04,728 [  68493]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 33ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:36:07,950 [  71715]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3219ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish, 2/3 very slow 
+2018-06-10 12:36:08,438 [  72203]   INFO - j.ide.ui.OptionsTopHitProvider - 2449 ms spent to cache options in application 
+2018-06-10 12:36:08,621 [  72386]   INFO - tartup.impl.StartupManagerImpl - /home/student/PycharmProjects/untitled/.idea case-sensitivity: expected=true actual=true 
+2018-06-10 12:36:08,754 [  72519]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-10 12:36:09,125 [  72890]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-10 12:36:09,129 [  72894]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 260ms on UI thread 
+2018-06-10 12:36:09,265 [  73030]   INFO - tartup.impl.StartupManagerImpl - PyPackagesUpdater run in 121ms on UI thread 
+2018-06-10 12:36:09,690 [  73455]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 10.06.18 12:35) 
+2018-06-10 12:36:11,718 [  75483]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 37131 ms 
+2018-06-10 12:36:12,576 [  76341]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -c . '/home/student/PycharmProjects/untitled/venv/bin/activate';'/snap/pycharm-community/64/bin/printenv.py' '/tmp/intellij-shell-env.tmp' 
+2018-06-10 12:36:13,015 [  76780]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 694 ms 
+2018-06-10 12:36:13,015 [  76780]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-10 12:36:13,017 [  76782]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python)): /home/student/.PyCharmCE2018.1/system/python_stubs/1137946638 
+2018-06-10 12:36:13,021 [  76786]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-10 12:36:13,029 [  76794]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (69 vars) 
+2018-06-10 12:36:13,296 [  77061]   INFO - j.ide.ui.OptionsTopHitProvider - 1217 ms spent to cache options in project 
+2018-06-10 12:36:13,892 [  77657]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python) 
+2018-06-10 12:36:13,937 [  77702]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /home/student/PycharmProjects/untitled/venv/bin/python 
+2018-06-10 12:36:15,856 [  79621]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1712 ms 
+2018-06-10 12:36:15,857 [  79622]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-10 12:36:16,048 [  79813]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 168 ms 
+2018-06-10 12:36:16,260 [  80025]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (untitled) (/home/student/PycharmProjects/untitled/venv/bin/python) 
+2018-06-10 12:36:16,377 [  80142]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /home/student/PycharmProjects/untitled/venv/bin/python /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 12:50:34,008 [ 937773]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 87 ms 
+2018-06-10 12:50:34,136 [ 937901]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 114 ms 
+2018-06-10 12:50:34,136 [ 937901]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-06-10 12:50:34,924 [ 938689]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:50:35,615 [ 939380]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-10 12:50:35,621 [ 939386]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-10 12:50:35,819 [ 939584]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 195ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:50:36,298 [ 940063]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 2383 ms 
+2018-06-10 12:50:36,299 [ 940064]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 102ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2018-06-10 12:50:36,810 [ 940575]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 511ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 12:50:36,815 [ 940580]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 247 files to update 
+2018-06-10 12:50:41,257 [ 945022]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-10 12:50:45,431 [ 949196]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 12:50:51,565 [ 955330]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 14750ms; general responsiveness: ok; EDT responsiveness: 0/15 sluggish, 3/15 very slow 
+2018-06-10 12:50:51,591 [ 955356]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2018-06-10 12:50:52,267 [ 956032]   INFO - j.ide.ui.OptionsTopHitProvider - 491 ms spent to cache options in project 
+2018-06-10 12:50:54,888 [ 958653]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 186 ms 
+2018-06-10 12:50:54,889 [ 958654]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-10 12:50:54,896 [ 958661]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-10 12:50:54,896 [ 958661]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-10 12:50:54,912 [ 958677]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 12:50:54,912 [ 958677]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-10 12:50:56,136 [ 959901]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1222 ms 
+2018-06-10 12:50:56,140 [ 959905]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-10 12:50:56,471 [ 960236]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 318 ms 
+2018-06-10 12:50:56,669 [ 960434]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 12:50:56,669 [ 960434]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 12:50:59,700 [ 963465]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-10 12:59:52,518 [1496283]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-10 12:59:52,519 [1496284]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-10 12:59:52,519 [1496284]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-10 13:29:31,417 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-10 13:29:31,680 [    263]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:31) 
+2018-06-10 13:29:31,680 [    263]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-10 13:29:31,680 [    263]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-10 13:29:31,680 [    263]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-10 13:29:31,693 [    276]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-10 13:29:31,693 [    276]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-10 13:29:31,693 [    276]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-10 13:29:31,730 [    313]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 36 ms 
+2018-06-10 13:29:32,411 [    994]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-10 13:29:32,411 [    994]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-10 13:29:32,774 [   1357]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@76201ff5[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@57dd5eb3 
+2018-06-10 13:29:32,950 [   1533]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-10 13:29:32,952 [   1535]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-10 13:29:37,150 [   5733]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 3631 ms 
+2018-06-10 13:29:37,151 [   5734]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-10 13:29:38,838 [   7421]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-10 13:29:38,925 [   7508]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-10 13:29:38,955 [   7538]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-10 13:29:40,400 [   8983]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-10 13:29:40,969 [   9552]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-10 13:29:41,029 [   9612]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-10 13:29:41,999 [  10582]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@69ce87d9 
+2018-06-10 13:29:42,647 [  11230]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-10 13:29:43,112 [  11695]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-10 13:29:43,243 [  11826]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-10 13:29:43,820 [  12403]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:169, number of extensions:18 
+2018-06-10 13:29:43,847 [  12430]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:27 
+2018-06-10 13:29:43,944 [  12527]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:45, number of extensions:10 
+2018-06-10 13:29:43,944 [  12527]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-10 13:29:44,742 [  13325]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@74abf092 
+2018-06-10 13:29:44,742 [  13325]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@5270b4c8 
+2018-06-10 13:29:44,742 [  13325]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@15ab312b 
+2018-06-10 13:29:44,743 [  13326]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-10 13:29:44,760 [  13343]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 11266ms 
+2018-06-10 13:29:44,787 [  13370]   INFO - .intellij.idea.IdeaApplication - App initialization took 15171 ms 
+2018-06-10 13:29:52,672 [  21255]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@2d1b29f6 
+2018-06-10 13:29:54,257 [  22840]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-10 13:29:54,479 [  23062]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@14131b41 
+2018-06-10 13:29:56,023 [  24606]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@26e63f85 
+2018-06-10 13:29:56,052 [  24635]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@ea747eb 
+2018-06-10 13:29:56,339 [  24922]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 7962 ms 
+2018-06-10 13:29:56,940 [  25523]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-10 13:29:57,311 [  25894]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 959 ms 
+2018-06-10 13:29:57,450 [  26033]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-10 13:29:57,541 [  26124]   INFO - pl$FileIndexDataInitialization - Initialization done:13700 
+2018-06-10 13:29:57,589 [  26172]   INFO - exImpl$StubIndexInitialization - Initialization done:48 
+2018-06-10 13:30:01,013 [  29596]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 810ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 13:30:01,794 [  30377]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-10 13:30:03,419 [  32002]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 111ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-06-10 13:30:05,460 [  34043]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1986ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish, 1/2 very slow 
+2018-06-10 13:30:05,461 [  34044]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 1 files to update 
+2018-06-10 13:30:06,427 [  35010]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 966ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-06-10 13:30:06,467 [  35050]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 6816ms under project opening modal progress 
+2018-06-10 13:30:06,521 [  35104]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 7055ms; general responsiveness: ok; EDT responsiveness: 1/7 sluggish, 6/7 very slow 
+2018-06-10 13:30:14,131 [  42714]   INFO - j.ide.ui.OptionsTopHitProvider - 1835 ms spent to cache options in application 
+2018-06-10 13:30:14,210 [  42793]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-10 13:30:14,348 [  42931]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-10 13:30:16,896 [  45479]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 29387 ms 
+2018-06-10 13:30:17,102 [  45685]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-10 13:30:17,102 [  45685]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 127ms on UI thread 
+2018-06-10 13:30:20,207 [  48790]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-10 13:30:20,207 [  48790]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-10 13:30:20,207 [  48790]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-10 13:30:20,365 [  48948]   INFO - j.ide.ui.OptionsTopHitProvider - 1133 ms spent to cache options in project 
+2018-06-10 13:30:21,072 [  49655]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 652 ms 
+2018-06-10 13:30:21,073 [  49656]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-10 13:30:21,079 [  49662]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-10 13:30:21,124 [  49707]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-10 13:30:21,745 [  50328]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 13:30:21,822 [  50405]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-10 13:30:23,782 [  52365]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1614 ms 
+2018-06-10 13:30:23,800 [  52383]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-10 13:30:24,161 [  52744]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 347 ms 
+2018-06-10 13:30:24,494 [  53077]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 13:30:24,648 [  53231]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 13:40:15,628 [ 644211]   INFO - term.terminal.ui.TerminalPanel - java.awt.datatransfer.UnsupportedFlavorException: Unicode String 
+2018-06-10 13:40:56,757 [ 685340]   INFO - hon.packaging.PyPIPackageCache - Loaded 141399 packages from /home/student/.PyCharmCE2018.1/system/python_packages/pypi-cache.json 
+2018-06-10 13:41:57,900 [ 746483]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 49 ms 
+2018-06-10 13:42:57,832 [ 806415]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-10 15:06:02,971 [5791554]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py untar /snap/pycharm-community/64/helpers/setuptools-39.1.0.tar.gz 
+2018-06-10 15:06:03,664 [5792247]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /tmp/tmpdo31pdv1pycharm-management/setuptools-39.1.0/setup.py install 
+2018-06-10 15:41:07,883 [7896466]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 503 ms 
+2018-06-10 15:41:07,906 [7896489]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-10 15:41:07,906 [7896489]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-10 15:41:07,906 [7896489]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-10 15:41:07,973 [7896556]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 15:41:07,973 [7896556]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-10 15:41:09,026 [7897609]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1009 ms 
+2018-06-10 15:41:09,028 [7897611]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-10 15:41:09,138 [7897721]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 107 ms 
+2018-06-10 15:41:09,313 [7897896]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 15:41:09,314 [7897897]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 15:41:28,116 [7916699]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-06-10 15:41:28,122 [7916705]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-06-10 15:41:28,126 [7916709]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-06-10 15:41:28,126 [7916709]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-06-10 15:41:28,126 [7916709]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-06-10 15:41:28,178 [7916761]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-06-10 15:41:28,246 [7916829]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-10 15:41:28,264 [7916847]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 2 auto-detected files
+Elapsed time on auto-detect: 89 ms 
+2018-06-10 15:41:28,332 [7916915]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-06-10 15:41:28,344 [7916927]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-06-10 15:41:28,348 [7916931]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-06-10 15:41:28,381 [7916964]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-06-10 15:41:28,450 [7917033]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-10 15:41:39,586 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-10 15:41:39,848 [    262]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:39) 
+2018-06-10 15:41:39,849 [    263]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-10 15:41:39,849 [    263]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-10 15:41:39,849 [    263]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-10 15:41:39,859 [    273]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-10 15:41:39,860 [    274]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-10 15:41:39,860 [    274]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-10 15:41:39,896 [    310]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 35 ms 
+2018-06-10 15:41:40,745 [   1159]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-10 15:41:40,746 [   1160]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-10 15:41:41,076 [   1490]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@69697a77[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@33df5257 
+2018-06-10 15:41:41,262 [   1676]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-10 15:41:41,264 [   1678]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-10 15:41:45,177 [   5591]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 3303 ms 
+2018-06-10 15:41:45,178 [   5592]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-10 15:41:46,687 [   7101]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-10 15:41:46,782 [   7196]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-10 15:41:46,813 [   7227]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-10 15:41:48,091 [   8505]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-10 15:41:48,698 [   9112]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-10 15:41:48,766 [   9180]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-10 15:41:49,593 [  10007]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@34a3b11b 
+2018-06-10 15:41:50,145 [  10559]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-10 15:41:50,466 [  10880]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-10 15:41:50,618 [  11032]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-10 15:41:51,154 [  11568]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:193, number of extensions:18 
+2018-06-10 15:41:51,175 [  11589]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:21 
+2018-06-10 15:41:51,267 [  11681]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:27, number of extensions:10 
+2018-06-10 15:41:51,268 [  11682]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-10 15:41:52,012 [  12426]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@5105b6d6 
+2018-06-10 15:41:52,013 [  12427]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@171e8c2f 
+2018-06-10 15:41:52,013 [  12427]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@700fc23c 
+2018-06-10 15:41:52,013 [  12427]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-10 15:41:52,022 [  12436]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 10228ms 
+2018-06-10 15:41:52,046 [  12460]   INFO - .intellij.idea.IdeaApplication - App initialization took 14271 ms 
+2018-06-10 15:41:58,423 [  18837]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@7ae8dde0 
+2018-06-10 15:41:59,555 [  19969]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-10 15:41:59,871 [  20285]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@30afe2b9 
+2018-06-10 15:42:00,890 [  21304]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@13a54c38 
+2018-06-10 15:42:00,927 [  21341]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@147bdb7f 
+2018-06-10 15:42:01,037 [  21451]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 5764 ms 
+2018-06-10 15:42:01,737 [  22151]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 692 ms 
+2018-06-10 15:42:01,958 [  22372]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-10 15:42:03,674 [  24088]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-10 15:42:04,623 [  25037]   INFO - pl$FileIndexDataInitialization - Initialization done:13448 
+2018-06-10 15:42:04,677 [  25091]   INFO - exImpl$StubIndexInitialization - Initialization done:53 
+2018-06-10 15:42:06,432 [  26846]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 723ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-10 15:42:06,965 [  27379]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-10 15:42:08,339 [  28753]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 70ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-06-10 15:42:10,960 [  31374]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2611ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish, 1/3 very slow 
+2018-06-10 15:42:15,028 [  35442]   INFO - j.ide.ui.OptionsTopHitProvider - 2425 ms spent to cache options in project 
+2018-06-10 15:42:15,157 [  35571]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 10039ms under project opening modal progress 
+2018-06-10 15:42:15,180 [  35594]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 10192ms; general responsiveness: ok; EDT responsiveness: 6/10 sluggish, 3/10 very slow 
+2018-06-10 15:42:17,958 [  38372]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-10 15:42:17,959 [  38373]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-10 15:42:17,959 [  38373]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-10 15:42:19,297 [  39711]   INFO - j.ide.ui.OptionsTopHitProvider - 788 ms spent to cache options in application 
+2018-06-10 15:42:20,622 [  41036]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-10 15:42:20,708 [  41122]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-10 15:42:22,834 [  43248]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 28215 ms 
+2018-06-10 15:42:24,040 [  44454]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 300 ms 
+2018-06-10 15:42:24,041 [  44455]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-10 15:42:24,042 [  44456]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-10 15:42:24,043 [  44457]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-10 15:42:24,284 [  44698]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 15:42:24,308 [  44722]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-10 15:42:26,256 [  46670]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1767 ms 
+2018-06-10 15:42:26,260 [  46674]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-10 15:42:26,534 [  46948]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 261 ms 
+2018-06-10 15:42:26,879 [  47293]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-10 15:42:26,932 [  47346]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-10 15:53:58,153 [ 738567]   INFO - hon.packaging.PyPIPackageCache - Loaded 141399 packages from /home/student/.PyCharmCE2018.1/system/python_packages/pypi-cache.json 
+2018-06-10 15:55:28,129 [ 828543]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-14 18:28:15,012 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-14 18:28:15,303 [    291]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:15) 
+2018-06-14 18:28:15,303 [    291]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-14 18:28:15,303 [    291]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-14 18:28:15,303 [    291]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-14 18:28:15,316 [    304]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-14 18:28:15,316 [    304]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-14 18:28:15,316 [    304]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-14 18:28:15,356 [    344]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 39 ms 
+2018-06-14 18:28:16,028 [   1016]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-14 18:28:16,028 [   1016]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-14 18:28:16,396 [   1384]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@746a4ae0[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@44932919 
+2018-06-14 18:28:16,594 [   1582]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-14 18:28:16,596 [   1584]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-14 18:28:20,946 [   5934]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 3572 ms 
+2018-06-14 18:28:20,946 [   5934]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-14 18:28:22,629 [   7617]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-14 18:28:22,721 [   7709]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-14 18:28:22,751 [   7739]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-14 18:28:24,188 [   9176]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-14 18:28:24,869 [   9857]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-14 18:28:24,934 [   9922]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-14 18:28:25,875 [  10863]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@75173b15 
+2018-06-14 18:28:26,512 [  11500]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-14 18:28:26,816 [  11804]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-14 18:28:27,056 [  12044]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-14 18:28:27,673 [  12661]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:177, number of extensions:18 
+2018-06-14 18:28:27,689 [  12677]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:15 
+2018-06-14 18:28:27,745 [  12733]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:22, number of extensions:10 
+2018-06-14 18:28:27,745 [  12733]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-14 18:28:28,361 [  13349]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@65e7da90 
+2018-06-14 18:28:28,361 [  13349]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@5919d29b 
+2018-06-14 18:28:28,362 [  13350]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@6befaec1 
+2018-06-14 18:28:28,363 [  13351]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-14 18:28:28,373 [  13361]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 11034ms 
+2018-06-14 18:28:28,437 [  13425]   INFO - .intellij.idea.IdeaApplication - App initialization took 15393 ms 
+2018-06-14 18:28:36,676 [  21664]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@4429d8b7 
+2018-06-14 18:28:38,445 [  23433]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@4848a148 
+2018-06-14 18:28:39,173 [  24161]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-14 18:28:40,316 [  25304]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@45dabaf3 
+2018-06-14 18:28:40,425 [  25413]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@38134801 
+2018-06-14 18:28:41,929 [  26917]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 9558 ms 
+2018-06-14 18:28:42,968 [  27956]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-14 18:28:43,186 [  28174]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1225 ms 
+2018-06-14 18:28:43,386 [  28374]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-14 18:28:43,740 [  28728]   INFO - pl$FileIndexDataInitialization - Initialization done:16051 
+2018-06-14 18:28:43,801 [  28789]   INFO - exImpl$StubIndexInitialization - Initialization done:61 
+2018-06-14 18:28:48,670 [  33658]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 1052ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-14 18:28:49,568 [  34556]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-14 18:28:51,053 [  36041]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 104ms; general responsiveness: ok; EDT responsiveness: 0/1 sluggish, 1/1 very slow 
+2018-06-14 18:28:54,139 [  39127]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3066ms; general responsiveness: ok; EDT responsiveness: 2/3 sluggish, 1/3 very slow 
+2018-06-14 18:28:55,437 [  40425]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 14.06.18 18:28) 
+2018-06-14 18:28:57,886 [  42874]   INFO - j.ide.ui.OptionsTopHitProvider - 2645 ms spent to cache options in project 
+2018-06-14 18:28:58,927 [  43915]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 11949ms under project opening modal progress 
+2018-06-14 18:28:59,010 [  43998]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 12250ms; general responsiveness: ok; EDT responsiveness: 5/12 sluggish, 4/12 very slow 
+2018-06-14 18:29:04,600 [  49588]   INFO - j.ide.ui.OptionsTopHitProvider - 794 ms spent to cache options in application 
+2018-06-14 18:29:05,510 [  50498]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-14 18:29:05,525 [  50513]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 103ms on UI thread 
+2018-06-14 18:29:05,740 [  50728]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-14 18:29:05,885 [  50873]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-14 18:29:09,989 [  54977]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 38157 ms 
+2018-06-14 18:29:10,018 [  55006]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 818 ms 
+2018-06-14 18:29:10,018 [  55006]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-14 18:29:10,020 [  55008]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-14 18:29:10,020 [  55008]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-14 18:29:10,993 [  55981]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-14 18:29:11,011 [  55999]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-14 18:29:13,413 [  58401]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 2203 ms 
+2018-06-14 18:29:13,423 [  58411]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-14 18:29:14,005 [  58993]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 557 ms 
+2018-06-14 18:29:14,367 [  59355]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-14 18:29:14,381 [  59369]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-14 18:46:35,258 [1100246]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-14 18:46:35,262 [1100250]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-14 18:46:35,262 [1100250]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-16 09:51:59,132 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-16 09:52:00,291 [   1159]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:00) 
+2018-06-16 09:52:00,299 [   1167]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-16 09:52:00,299 [   1167]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-16 09:52:00,299 [   1167]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-16 09:52:00,363 [   1231]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-16 09:52:00,364 [   1232]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-16 09:52:00,364 [   1232]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-16 09:52:00,563 [   1431]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 199 ms 
+2018-06-16 09:52:01,905 [   2773]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-16 09:52:01,905 [   2773]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-16 09:52:04,233 [   5101]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@331b843d[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@3e05b34e 
+2018-06-16 09:52:04,995 [   5863]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-16 09:52:05,005 [   5873]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-16 09:52:12,204 [  13072]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 5263 ms 
+2018-06-16 09:52:12,211 [  13079]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-16 09:52:15,402 [  16270]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-16 09:52:15,567 [  16435]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-16 09:52:15,642 [  16510]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-16 09:52:18,679 [  19547]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-16 09:52:19,867 [  20735]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-16 09:52:19,997 [  20865]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-16 09:52:21,572 [  22440]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@13b90b1a 
+2018-06-16 09:52:22,952 [  23820]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-16 09:52:23,487 [  24355]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-16 09:52:23,845 [  24713]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-16 09:52:24,729 [  25597]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:349, number of extensions:18 
+2018-06-16 09:52:24,751 [  25619]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:22 
+2018-06-16 09:52:24,950 [  25818]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:26, number of extensions:10 
+2018-06-16 09:52:24,974 [  25842]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:24 
+2018-06-16 09:52:26,351 [  27219]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@167ecb3f 
+2018-06-16 09:52:26,351 [  27219]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@1a91abba 
+2018-06-16 09:52:26,352 [  27220]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@df1332c 
+2018-06-16 09:52:26,363 [  27231]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-16 09:52:26,371 [  27239]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 19484ms 
+2018-06-16 09:52:26,444 [  27312]   INFO - .intellij.idea.IdeaApplication - App initialization took 38421 ms 
+2018-06-16 09:52:43,806 [  44674]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@126f4f45 
+2018-06-16 09:52:47,978 [  48846]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-16 09:52:48,326 [  49194]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@2fc91a34 
+2018-06-16 09:52:52,792 [  53660]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@7ed66f2d 
+2018-06-16 09:52:52,981 [  53849]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@77e182c2 
+2018-06-16 09:52:53,861 [  54729]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 19595 ms 
+2018-06-16 09:52:54,005 [  54873]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-16 09:52:56,013 [  56881]   INFO - pl$FileIndexDataInitialization - Initialization done:31262 
+2018-06-16 09:52:56,203 [  57071]   INFO - exImpl$StubIndexInitialization - Initialization done:189 
+2018-06-16 09:52:56,465 [  57333]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 2574 ms 
+2018-06-16 09:52:56,821 [  57689]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-16 09:53:10,161 [  71029]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 7 roots in 1 SDKs took 2063ms; general responsiveness: ok; EDT responsiveness: 0/2 sluggish, 1/2 very slow 
+2018-06-16 09:53:11,580 [  72448]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-16 09:53:15,466 [  76334]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 867ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-16 09:53:22,216 [  83084]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 6641ms; general responsiveness: ok; EDT responsiveness: 4/7 sluggish, 3/7 very slow 
+2018-06-16 09:53:23,833 [  84701]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 16529ms under project opening modal progress 
+2018-06-16 09:53:23,952 [  84820]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 119ms under project opening modal progress 
+2018-06-16 09:53:24,119 [  84987]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 17283ms; general responsiveness: ok; EDT responsiveness: 5/17 sluggish, 11/17 very slow 
+2018-06-16 09:53:24,916 [  85784]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 16.06.18 9:52) 
+2018-06-16 09:53:43,621 [ 104489]   INFO - j.ide.ui.OptionsTopHitProvider - 4501 ms spent to cache options in application 
+2018-06-16 09:53:47,688 [ 108556]   INFO - j.ide.ui.OptionsTopHitProvider - 3355 ms spent to cache options in project 
+2018-06-16 09:53:51,404 [ 112272]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-16 09:53:51,419 [ 112287]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 325ms on UI thread 
+2018-06-16 09:53:52,066 [ 112934]   INFO - tartup.impl.StartupManagerImpl - PyPackagesUpdater run in 299ms on UI thread 
+2018-06-16 09:53:52,102 [ 112970]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books/.idea case-sensitivity: expected=true actual=true 
+2018-06-16 09:53:52,715 [ 113583]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-16 09:53:54,424 [ 115292]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK /usr/bin/python3.6 
+2018-06-16 09:53:54,447 [ 115315]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-16 09:53:58,513 [ 119381]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 982 ms 
+2018-06-16 09:53:58,513 [ 119381]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-06-16 09:53:58,520 [ 119388]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/student/.PyCharmCE2018.1/system/python_stubs/-1247971763 
+2018-06-16 09:53:58,523 [ 119391]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /snap/pycharm-community/64/helpers/python-skeletons 
+2018-06-16 09:54:07,310 [ 128178]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 95009 ms 
+2018-06-16 09:54:07,422 [ 128290]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 4 to update, calculated in 43ms 
+2018-06-16 09:54:07,880 [ 128748]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-16 09:54:07,968 [ 128836]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-06-16 09:54:11,615 [ 132483]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 3015 ms 
+2018-06-16 09:54:11,689 [ 132557]   INFO - tPregeneratedSkeletonsProvider - Home path is /snap/pycharm-community/64 
+2018-06-16 09:54:13,084 [ 133952]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 1324 ms 
+2018-06-16 09:54:14,496 [ 135364]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-06-16 09:54:14,502 [ 135370]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /snap/pycharm-community/64/helpers/packaging_tool.py list 
+2018-06-16 09:54:24,825 [ 145693]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-16 09:54:26,291 [ 147159]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 18867ms; general responsiveness: 0/18 sluggish, 1/18 very slow; EDT responsiveness: 6/18 sluggish, 1/18 very slow 
+2018-06-16 09:57:10,787 [ 311655]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-16 09:57:10,790 [ 311658]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-16 09:57:10,790 [ 311658]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-16 10:04:47,984 [ 768852]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-06-16 10:04:47,986 [ 768854]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-06-16 10:04:48,031 [ 768899]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-06-16 10:04:48,031 [ 768899]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-06-16 10:04:48,039 [ 768907]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-06-16 10:04:48,123 [ 768991]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-06-16 10:04:48,335 [ 769203]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-16 10:04:48,438 [ 769306]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 2 auto-detected files
+Elapsed time on auto-detect: 1935 ms 
+2018-06-16 10:04:48,458 [ 769326]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-06-16 10:04:48,460 [ 769328]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-06-16 10:04:48,469 [ 769337]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-06-16 10:04:48,544 [ 769412]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-06-16 10:04:48,583 [ 769451]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-06-16 10:07:25,881 [      1]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-16 10:07:26,508 [    628]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:26) 
+2018-06-16 10:07:26,511 [    631]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-21-generic, amd64) 
+2018-06-16 10:07:26,511 [    631]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-16 10:07:26,513 [    633]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-16 10:07:26,538 [    658]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-16 10:07:26,540 [    660]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-16 10:07:26,547 [    667]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-16 10:07:26,620 [    740]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 73 ms 
+2018-06-16 10:07:27,854 [   1974]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-16 10:07:27,855 [   1975]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-16 10:07:28,549 [   2669]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@43b4bb79[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@5d4af102 
+2018-06-16 10:07:29,127 [   3247]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-16 10:07:29,135 [   3255]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-16 10:07:35,188 [   9308]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 5876 ms 
+2018-06-16 10:07:35,222 [   9342]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-16 10:07:40,618 [  14738]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-16 10:07:40,878 [  14998]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-16 10:07:40,950 [  15070]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-16 10:07:44,928 [  19048]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-16 10:07:46,431 [  20551]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-16 10:07:46,585 [  20705]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-16 10:07:48,331 [  22451]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@771cf659 
+2018-06-16 10:07:49,477 [  23597]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-16 10:07:50,434 [  24554]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-16 10:07:50,529 [  24649]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-16 10:07:52,390 [  26510]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:686, number of extensions:18 
+2018-06-16 10:07:52,483 [  26603]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:92 
+2018-06-16 10:07:52,642 [  26762]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:59, number of extensions:10 
+2018-06-16 10:07:52,693 [  26813]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:50 
+2018-06-16 10:07:54,837 [  28957]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@394acfd 
+2018-06-16 10:07:54,838 [  28958]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@2167a708 
+2018-06-16 10:07:54,839 [  28959]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@16fc154c 
+2018-06-16 10:07:54,841 [  28961]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-16 10:07:54,841 [  28961]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 18130ms 
+2018-06-16 10:07:54,899 [  29019]   INFO - .intellij.idea.IdeaApplication - App initialization took 33252 ms 
+2018-06-16 10:08:00,432 [  34552]   INFO - .intellij.idea.IdeaApplication - IdeaApplication.loadProject 
+2018-06-16 10:08:00,477 [  34597]   INFO - ellij.ide.CommandLineProcessor - External command line: 
+2018-06-16 10:08:00,477 [  34597]   INFO - ellij.ide.CommandLineProcessor - Dir: null 
+2018-06-16 10:08:00,477 [  34597]   INFO - ellij.ide.CommandLineProcessor - /home/student/Desktop/books_new 
+2018-06-16 10:08:00,477 [  34597]   INFO - ellij.ide.CommandLineProcessor - ----- 
+2018-06-16 10:08:07,695 [  41815]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@531d8a5f 
+2018-06-16 10:08:10,179 [  44299]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@6d2fb204 
+2018-06-16 10:08:12,948 [  47068]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-16 10:08:13,208 [  47328]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@44a54416 
+2018-06-16 10:08:13,276 [  47396]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@51af261a 
+2018-06-16 10:08:13,388 [  47508]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-16 10:08:15,588 [  49708]   INFO - pl$FileIndexDataInitialization - Initialization done:23105 
+2018-06-16 10:08:15,917 [  50037]   INFO - exImpl$StubIndexInitialization - Initialization done:328 
+2018-06-16 10:08:16,589 [  50709]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 12831 ms 
+2018-06-16 10:08:18,296 [  52416]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1676 ms 
+2018-06-16 10:08:18,667 [  52787]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-16 10:08:25,017 [  59137]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-16 10:08:25,795 [  59915]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 681ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-16 10:08:27,316 [  61436]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-16 10:08:27,681 [  61801]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1864ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-16 10:08:27,696 [  61816]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 39 files to update 
+2018-06-16 10:08:36,051 [  70171]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 11959ms under project opening modal progress 
+2018-06-16 10:08:36,209 [  70329]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 12400ms; general responsiveness: ok; EDT responsiveness: 4/12 sluggish, 6/12 very slow 
+2018-06-16 10:08:40,602 [  74722]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-16 10:08:47,214 [  81334]   INFO - j.ide.ui.OptionsTopHitProvider - 2807 ms spent to cache options in application 
+2018-06-16 10:08:47,739 [  81859]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/books_new/.idea case-sensitivity: expected=true actual=true 
+2018-06-16 10:08:48,159 [  82279]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-16 10:08:51,406 [  85526]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 23711ms; general responsiveness: 1/23 sluggish; EDT responsiveness: 7/25 sluggish, 15/25 very slow 
+2018-06-16 10:08:51,913 [  86033]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 49567 ms 
+2018-06-16 10:08:53,450 [  87570]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-16 10:08:53,450 [  87570]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 104ms on UI thread 
+2018-06-16 10:08:55,713 [  89833]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 16.06.18 9:52) 
+2018-06-16 10:08:57,893 [  92013]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-16 10:08:57,894 [  92014]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-16 10:08:57,894 [  92014]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-16 10:09:00,771 [  94891]   INFO - j.ide.ui.OptionsTopHitProvider - 1842 ms spent to cache options in project 
+2018-06-16 10:19:26,105 [ 720225]   INFO - hon.packaging.PyPIPackageCache - Loaded 142063 packages from /home/student/.PyCharmCE2018.1/system/python_packages/pypi-cache.json 
+2018-06-21 17:20:34,992 [457989112]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-21 17:20:35,012 [457989132]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-21 17:20:35,461 [457989581]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 818 ms 
+2018-06-21 17:20:35,531 [457989651]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 55 ms 
+2018-06-21 17:20:36,498 [457990618]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 44ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-21 17:20:36,689 [457990809]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 154ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-21 17:20:36,707 [457990827]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-21 17:20:37,519 [457991639]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 823ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-21 17:20:37,520 [457991640]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 15 files to update 
+2018-06-21 17:20:39,191 [457993311]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 2934ms under project opening modal progress 
+2018-06-21 17:20:39,200 [457993320]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2978ms; general responsiveness: ok; EDT responsiveness: 2/3 sluggish, 1/3 very slow 
+2018-06-21 17:20:40,148 [457994268]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 2628ms; general responsiveness: ok; EDT responsiveness: 2/3 sluggish, 1/3 very slow 
+2018-06-21 17:20:40,434 [457994554]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/newssite-master/.idea case-sensitivity: expected=true actual=true 
+2018-06-21 17:20:41,136 [457995256]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-21 17:20:43,276 [457997396]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8772 ms 
+2018-06-21 17:20:44,694 [457998814]   INFO - j.ide.ui.OptionsTopHitProvider - 558 ms spent to cache options in project 
+2018-06-21 18:13:20,730 [461154850]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 19 to update, calculated in 0ms 
+2018-06-21 18:13:23,151 [461157271]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 2413ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish 
+2018-06-21 18:14:54,090 [461248210]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 152 ms 
+2018-06-23 11:13:56,686 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-23 11:13:56,964 [    278]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:56) 
+2018-06-23 11:13:56,964 [    278]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-45-generic, amd64) 
+2018-06-23 11:13:56,964 [    278]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-23 11:13:56,964 [    278]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-23 11:13:56,978 [    292]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-23 11:13:56,978 [    292]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-23 11:13:56,978 [    292]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-23 11:13:57,017 [    331]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 38 ms 
+2018-06-23 11:13:57,668 [    982]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-23 11:13:57,668 [    982]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-23 11:13:58,027 [   1341]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@7ee22594[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@6e1dee1 
+2018-06-23 11:13:58,337 [   1651]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-23 11:13:58,338 [   1652]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-23 11:14:01,978 [   5292]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 2835 ms 
+2018-06-23 11:14:01,979 [   5293]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-23 11:14:03,530 [   6844]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-23 11:14:03,614 [   6928]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-23 11:14:03,650 [   6964]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-23 11:14:04,965 [   8279]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-23 11:14:05,568 [   8882]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-23 11:14:05,629 [   8943]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-23 11:14:06,386 [   9700]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@229371d2 
+2018-06-23 11:14:06,921 [  10235]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-23 11:14:07,194 [  10508]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-23 11:14:07,290 [  10604]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-23 11:14:07,768 [  11082]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:198, number of extensions:18 
+2018-06-23 11:14:07,790 [  11104]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:21 
+2018-06-23 11:14:07,829 [  11143]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:13, number of extensions:10 
+2018-06-23 11:14:07,838 [  11152]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-06-23 11:14:08,426 [  11740]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@42d20f16 
+2018-06-23 11:14:08,429 [  11743]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@356881e3 
+2018-06-23 11:14:08,429 [  11743]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@6afb2f5b 
+2018-06-23 11:14:08,430 [  11744]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-23 11:14:08,430 [  11744]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 9319ms 
+2018-06-23 11:14:08,531 [  11845]   INFO - .intellij.idea.IdeaApplication - App initialization took 14383 ms 
+2018-06-23 11:14:15,487 [  18801]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-23 11:14:15,521 [  18835]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-23 11:14:15,595 [  18909]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@2ec70e5 
+2018-06-23 11:14:17,031 [  20345]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@482a66c3 
+2018-06-23 11:14:17,344 [  20658]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-23 11:14:18,247 [  21561]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@5b1642fe 
+2018-06-23 11:14:18,264 [  21578]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@78e3847e 
+2018-06-23 11:14:18,844 [  22158]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 6348 ms 
+2018-06-23 11:14:20,062 [  23376]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 1207 ms 
+2018-06-23 11:14:20,273 [  23587]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-23 11:14:20,635 [  23949]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-23 11:14:21,310 [  24624]   INFO - pl$FileIndexDataInitialization - Initialization done:13520 
+2018-06-23 11:14:21,362 [  24676]   INFO - exImpl$StubIndexInitialization - Initialization done:51 
+2018-06-23 11:14:23,462 [  26776]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 11:14:23,699 [  27013]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 179ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 11:14:24,928 [  28242]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-23 11:14:24,940 [  28254]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1228ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 11:14:27,368 [  30682]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 23.06.18 11:14) 
+2018-06-23 11:14:29,534 [  32848]   INFO - j.ide.ui.OptionsTopHitProvider - 2064 ms spent to cache options in project 
+2018-06-23 11:14:31,247 [  34561]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 8317ms under project opening modal progress 
+2018-06-23 11:14:31,313 [  34627]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 8559ms; general responsiveness: ok; EDT responsiveness: 4/9 sluggish, 2/9 very slow 
+2018-06-23 11:14:35,701 [  39015]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5.rnc 
+2018-06-23 11:14:35,701 [  39015]   INFO - tellij.xml.Html5SchemaProvider - XHTML5_SCHEMA_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/xhtml5.rnc 
+2018-06-23 11:14:35,701 [  39015]   INFO - tellij.xml.Html5SchemaProvider - CHARS_DTD_LOCATION = /snap/pycharm-community/64/lib/pycharm.jar!/resources/html5-schema/html5chars.ent 
+2018-06-23 11:14:37,508 [  40822]   INFO - j.ide.ui.OptionsTopHitProvider - 1117 ms spent to cache options in application 
+2018-06-23 11:14:37,773 [  41087]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2018-06-23 11:14:37,773 [  41087]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 147ms on UI thread 
+2018-06-23 11:14:37,887 [  41201]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/newssite-master/.idea case-sensitivity: expected=true actual=true 
+2018-06-23 11:14:38,274 [  41588]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-23 11:14:42,601 [  45915]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 30834 ms 
+2018-06-23 11:16:23,216 [ 146530]   INFO - hon.packaging.PyPIPackageCache - Loaded 142063 packages from /home/student/.PyCharmCE2018.1/system/python_packages/pypi-cache.json 
+2018-06-23 11:18:15,820 [ 259134]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/sdk-stubs.input 
+2018-06-23 12:30:12,170 [4575484]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 80 ms 
+2018-06-23 12:47:24,833 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-06-23 12:47:25,248 [    415]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PC-181.5087.37, 24 May 2018 10:25) 
+2018-06-23 12:47:25,248 [    415]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-45-generic, amd64) 
+2018-06-23 12:47:25,249 [    416]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-06-23 12:47:25,249 [    416]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-06-23 12:47:25,268 [    435]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/student/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/student/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharmCE2018.1 -Djb.vmOptionsFile=/snap/pycharm-community/64/bin/pycharm64.vmoptions -Didea.platform.prefix=PyCharmCore 
+2018-06-23 12:47:25,269 [    436]   INFO -        #com.intellij.idea.Main - ext: /snap/pycharm-community/64/jre64/lib/ext: [cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunpkcs11.jar, zipfs.jar] 
+2018-06-23 12:47:25,269 [    436]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-06-23 12:47:25,329 [    496]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 59 ms 
+2018-06-23 12:47:26,281 [   1448]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-06-23 12:47:26,281 [   1448]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2018-06-23 12:47:26,856 [   2023]   INFO - .intellij.idea.IdeaApplication - CPU cores: 1; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@34754675[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@35f4be27 
+2018-06-23 12:47:27,147 [   2314]   INFO - .intellij.idea.IdeaApplication - WM detected: GNOME Shell 
+2018-06-23 12:47:27,151 [   2318]   INFO - llij.openapi.wm.impl.X11UiUtil - impersonated WM: MUTTER_WM 
+2018-06-23 12:47:32,360 [   7527]   INFO - llij.ide.plugins.PluginManager - 18 plugins initialized in 4047 ms 
+2018-06-23 12:47:32,361 [   7528]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CVS Integration (11), EditorConfig (181.5087.37), Git Integration (8.1), GitHub (181.5087.37), IDEA CORE (181.5087.37), IPython Notebook (0.1), IntelliLang (8.0), Mercurial Integration (10.0), Properties Support (181.5087.37), Python IntelliLang (VERSION), Python ReStructureText Integration (1.0), Python Terminal (VERSION), ReStructuredText Support (181.5087.37), Settings Repository (181.5087.37), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), YAML (181.5087.37) 
+2018-06-23 12:47:34,847 [  10014]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=721 
+2018-06-23 12:47:34,985 [  10152]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-community/64/bin/fsnotifier64 
+2018-06-23 12:47:35,033 [  10200]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-06-23 12:47:37,276 [  12443]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=0.0; restored: fontSize=15, fontScale=1.0 
+2018-06-23 12:47:38,294 [  13461]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-06-23 12:47:38,389 [  13556]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-06-23 12:47:39,714 [  14881]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@2a511031 
+2018-06-23 12:47:40,772 [  15939]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-06-23 12:47:41,454 [  16621]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-06-23 12:47:41,554 [  16721]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-06-23 12:47:42,375 [  17542]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:306, number of extensions:18 
+2018-06-23 12:47:42,423 [  17590]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:45 
+2018-06-23 12:47:42,530 [  17697]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:25, number of extensions:10 
+2018-06-23 12:47:42,534 [  17701]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:3 
+2018-06-23 12:47:43,354 [  18521]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@7ddb58cc 
+2018-06-23 12:47:43,354 [  18521]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@4685063b 
+2018-06-23 12:47:43,354 [  18521]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@11b9f7fd 
+2018-06-23 12:47:43,368 [  18535]   INFO - pi.util.registry.RegistryValue - Registry value 'ide.ssh.one.time.password' has changed to 'true" 
+2018-06-23 12:47:43,369 [  18536]   INFO - plication.impl.ApplicationImpl - 75 application components initialized in 15095ms 
+2018-06-23 12:47:43,407 [  18574]   INFO - .intellij.idea.IdeaApplication - App initialization took 21553 ms 
+2018-06-23 12:47:53,835 [  29002]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@37ad5daf 
+2018-06-23 12:47:54,293 [  29460]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-06-23 12:47:54,314 [  29481]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-23 12:47:56,510 [  31677]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@2338e26c 
+2018-06-23 12:47:57,455 [  32622]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-06-23 12:47:58,896 [  34063]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@6624c1f6 
+2018-06-23 12:47:59,028 [  34195]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@4423f307 
+2018-06-23 12:47:59,912 [  35079]   INFO - ellij.project.impl.ProjectImpl - 89 project components initialized in 10767 ms 
+2018-06-23 12:48:01,485 [  36652]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/student/.PyCharmCE2018.1/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-06-23 12:48:02,011 [  37178]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 2090 ms 
+2018-06-23 12:48:02,211 [  37378]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-06-23 12:48:02,754 [  37921]   INFO - pl$FileIndexDataInitialization - Initialization done:20331 
+2018-06-23 12:48:02,836 [  38003]   INFO - exImpl$StubIndexInitialization - Initialization done:81 
+2018-06-23 12:48:06,652 [  41819]   INFO - .diagnostic.PerformanceWatcher - Pushing Python language level to 0 roots in 0 SDKs took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 12:48:07,107 [  42274]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 346ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 12:48:08,414 [  43581]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1258ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-06-23 12:48:08,927 [  44094]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-06-23 12:48:16,988 [  52155]   INFO - j.ide.ui.OptionsTopHitProvider - 4078 ms spent to cache options in project 
+2018-06-23 12:48:19,829 [  54996]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 14068ms under project opening modal progress 
+2018-06-23 12:48:19,910 [  55077]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 14451ms; general responsiveness: ok; EDT responsiveness: 4/14 sluggish, 7/14 very slow 
+2018-06-23 12:48:28,723 [  63890]   INFO - j.ide.ui.OptionsTopHitProvider - 1493 ms spent to cache options in application 
+2018-06-23 12:48:28,983 [  64150]   INFO - tartup.impl.StartupManagerImpl - /home/student/Desktop/newssite-master/.idea case-sensitivity: expected=true actual=true 
+2018-06-23 12:48:29,651 [  64818]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [/home/student/Desktop/newssite-master] 
+2018-06-23 12:48:35,765 [  70932]   INFO - hon.packaging.PyPIPackageCache - Loaded 142063 packages from /home/student/.PyCharmCE2018.1/system/python_packages/pypi-cache.json 
+2018-06-23 12:48:37,522 [  72689]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 49796 ms 

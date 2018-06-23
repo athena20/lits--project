@@ -1,0 +1,316 @@
+filetypes.xmllaf.xmldebugger.xmlusage.statistics.xmlstubIndex.xmlimages.support.xmlrecentProjectDirectories.xmlupdates.xmlDefault.xmleditor.codeinsight.xmloptions.xmlcolors.scheme.xmlparse.pylog.pyfilelist.pyascii.pyast.pyscriptssettings.pytokenize.pysysconfig.pygenerator.pysound_generator.pysubprocess.pyspawn.py	queues.py	loader.pycommonoauth.pyio.pyquery.pycopy.py	pickle.py	struct.py
+decimal.py
+pathlib.pyLICENSE.txtdatetime.py	random.pyhtmlhttpjsonemailmimecurses
+debfile.pysqlite3settings_manager.pytkinterwsgirefunittest	encodings	importlib
+concurrentfuturescollectionsxmlsaxetreelib2to3pgen2logging	distutilscommand
+errors.pyi3run.pytext.pyimage.pydocument.pyregistry.pyconstants.pyinterface.pytesturllibrobotparser.pyiparsersenum.pyiselectors.py2and3auth.pyhelp.py	models.py
+cookies.py	deb822.pymultipart.pyiyamltable.py	error.pyi
+events.pyicore.pyiparagraph.py
+README.txt	README.mdCrypto_constants.pytool.py
+decoder.py
+encoder.py
+scanner.pyordered_dict.py	posix.pyi
+install.pydebug.pypygtkcompat.pycryptographyhazmat
+random.pyibindings	debug.pyi_openssl.abi3.somain.pycmd.pyabc.pyerror.py	events.pyasyncio
+request.pyresponse.pyconnection.pyapplication.pyenums.py	logger.py	common.py	compat.pyfrontend.pybackendsbase.pyhmac.py	errors.pylaunchpad.pyconstants.pyipackagesrequest.pyiresponse.pyiconnection.pyi	utils.pyi_compat.pyiutil.pyutils.py
+backend.py_padding.abi3.so_constant_time.abi3.socharset.pyiapps.pycredentials.pybase.pyirequestsauth.pyiurllib3utilbackendInstallBackendSynaptic.pyInstallBackendAptdaemon.pyssl_match_hostname
+compat.pyicookies.pyisessions.pyi	backportssix.py
+_compat.py
+version.py
+markupsafecollection.pypaths.pydbus	books.imlmisc.xmlmodules.xmlextResourcesxhtml-mobile.ideaurls.pywsgi.pymedia
+blabla.jpgUntitled.pngportfol4.pngportfol4_AnnrmTe.pngportfol4_ho52d4s.pngmybooksadmin.pytests.pyviews.py
+migrations0012_boo.py0001_initial.py0005_book_img.py0011_book_url.py0003_book_year.py0004_book_genre.py0002_book_publisher.py0006_auto_20180602_0934.py0007_auto_20180602_0942.py0008_auto_20180602_0943.py0009_auto_20180602_0944.py0010_auto_20180602_0946.py	manage.py	templates	main.html
+db.sqlite3xhtml11xhtml11.dtdxhtml-base-1.modxhtml-edit-1.modxhtml-form-1.modxhtml-link-1.modxhtml-list-1.modxhtml-meta-1.modxhtml-pres-1.modxhtml-ruby-1.modxhtml-text-1.modxhtml-image-1.modxhtml-param-1.modxhtml-qname-1.modxhtml-style-1.modxhtml-table-1.modxhtml-events-1.modxhtml-object-1.modxhtml-script-1.modxhtml-mobile10.dtdxhtml-struct-1.modxhtml-target-1.modxhtml-attribs-1.modxhtml-blkpres-1.modxhtml-charent-1.modxhtml-csismap-1.modxhtml-mobile12.dtdxhtml-inlpres-1.modxhtmlmp12-form-1.modxhtml-ssismap-1.modxhtml-mobile10-flat.dtdxhtml11-model-1.modxhtml-mobile12-form.modxhtml-mobile10-model-1.modxhtml-blkphras-1.modxhtml-inlphras-1.modxhtml-mobile12-model-1.modxhtml-inlstyle-1.modstandardSchemasxhtml-blkstruct-1.modxhtml-datatypes-1.mod
+xhtml5.xsdxhtml-framework-1.modxml.xsdxhtml-hypertext-1.mod	xhtml.dtdxhtml-inlstruct-1.modxhtml-basic-form-1.mod	xlink.dtdxhtml-basic-table-1.mod	resourcespatches
+plugin.dtd
+xhtml1.dtdcatalog.xsd0004_ping.patch0001_html5.patch0002_xhtml5.patchpatch_build.patch0005_html5_namespace.patch0006_xhtml5_namespace.patchrelaxng.rnghtml5-schemaxinclude.xsdxslt-1_0.xsdxslt-2_0.xsdXMLSchema-1_1!XMLSchema-hasFacetAndProperty.xsdXMLSchema.dtddatatypes.dtdxhtml1-strict.dtdxhtml1-strict.xsdxhtml1-frameset.dtdxhtml1-frameset.xsdplugin-repository.dtdXMLSchema-instance.xsdxhtml1-transitional.dtdxhtml1-transitional.xsdXMLSchema-versioning.xsdschemasrdfrdf.rncits2mml3properties.dtd	python3.6dbmgnu.pydumb.pyndbm.pydom	domreg.py
+minidom.py
+pulldom.pyNodeFilter.pyminicompat.pyxmlbuilder.pyexpatbuilder.py
+handler.pysaxutils.pyxmlreader.py_exceptions.pyexpatreader.pyElementPath.pyMakefile	patch-vnumathml3.rncmathml3-inc.rncmathml3-common.rncmathml3-content.rncElementTree.pymathml3-presentation.rncmathml3-strict-content.rnccElementTree.pyaria.rncElementInclude.pydata.rncexpat.pymeta.rncrdfa.rncruby.rnc	block.rnc	embed.rnc	media.rnc
+common.rnc
+legacy.rnc
+phrase.rncentities.py
+tables.rncrevision.rnchtml5core.rnchtml5full.rncmicrodata.rnccookiejar.pysectional.rncweb-forms.rncstructural.rncweb-forms2.rncxhtml5core.rncapplications.rnccore-scripting.rncform-datatypes.rncsupporthtml5full-rdfa.rncscript_helper.pyweb-components.rnc
+pystone.pyhtml5exclusions.rncxhtml5full-html.rncxhtml5full-xhtml.rnchtml5full-rdfalite.rncweb-forms-scripting.rncweb-forms2-scripting.rncxhtml5full-xhtml-rdfa.rnchtml5full-no-microdata.rncxhtml5full-html-rdfalite.rncxhtml5full-xhtml-rdfalite.rncxhtml5core-plus-web-forms2.rnc xhtml5full-html-no-microdata.rnc!xhtml5full-xhtml-no-microdata.rncsvg11libregrtestsetup.py
+cmdline.py
+refleak.py
+runtest.pysave_env.pyruntest_mp.pyregrtest.pytest_support.pyvenvposixactivate.cshactivate.fish	svg11.rncinkscape.rncsvg-clip.rncsvg-font.rncsvg-mask.rncsvg-text.rncsvg-view.rncsvg-image.rncsvg-qname.rncsvg-shape.rncsvg-style.rncsvg11-inc.rncsvg-cursor.rncsvg-filter.rncactivateaudio.pymultipart.pynonmultipart.py	header.py	policy.py
+charset.pyencoders.pyiterators.py_parseaddr.pybase64mime.pysvg-marker.rncsvg-script.rncsvg11-tiny.rncfeedparser.pyquoprimime.py_policybase.pyarchitecture.rst_encoded_words.pycontentmanager.pyheaderregistry.py_header_value_parser.pyos.pyre.pysvg-pattern.rncsvg-profile.rncsvg11-basic.rncsvg-gradient.rncsvg-animation.rncsvg-datatypes.rncsvg-hyperlink.rncsvg-structure.rncinkscape-draft.rncsvg-basic-clip.rncsvg-basic-font.rncsvg-basic-text.rncsvg11-tiny-inc.rncsvg-conditional.rncsvg-core-attrib.rncuu.pybdb.pybz2.pycgi.pycsv.pyctypes
+_endian.pywintypes.pypanel.py
+has_key.py
+textpad.pydis.pyimp.pypdb.pypty.pyssl.pytty.pysvg11-basic-inc.rncsvg-basic-filter.rncsvg-paint-attrib.rncsvg-xlink-attrib.rncsvg-extensibility.rncsvg-opacity-attrib.rncsvg-basic-structure.rncsvg-graphics-attrib.rncsvg-viewport-attrib.rncsvg-container-attrib.rncsvg-docevents-attrib.rncsvg-animevents-attrib.rncsvg-graphevents-attrib.rncsvg-extresources-attrib.rncsvg-basic-graphics-attrib.rncLICENSEhtml5-all.rnchtml5-its.rnchtml5chars.entxhtml5-all.rnchtml5-rdfalite.rncxhtml5-rdfalite.rnchtml5-svg-mathml.rncxhtml5-svg-mathml.rnchtml5-no-microdata.rnchtml5-rdfalite-w3c.rncxhtml5-no-microdata.rncxhtml5-rdfalite-w3c.rncsvg-xhtml5-rdf-mathml.rncxhtml1-ruby-rdf-svg-mathml.rnchtml5charref.rbcloud.propertiesupdate_html5_schema.shlib-dynloadrobotparser.pyxmlrpcaifc.py#nis.cpython-36m-x86_64-linux-gnu.so$_bz2.cpython-36m-x86_64-linux-gnu.solocks.py$_csv.cpython-36m-x86_64-linux-gnu.sotasks.py$_dbm.cpython-36m-x86_64-linux-gnu.so
+futures.py$_ssl.cpython-36m-x86_64-linux-gnu.so
+streams.py$mmap.cpython-36m-x86_64-linux-gnu.sosslproto.pyprotocols.pybase_tasks.pycoroutines.pytest_utils.pytransports.pybase_events.pyunix_events.py%_gdbm.cpython-36m-x86_64-linux-gnu.sobase_futures.pywindows_utils.pywindows_events.pybase_subprocess.pyproactor_events.pyselector_events.pycode.pyenum.pyglob.pygzip.pyidlelibIconstk.gifidle.ico	idle.icns
+folder.gif
+python.gifidle_16.gif%_json.cpython-36m-x86_64-linux-gnu.soidle_16.pngidle_32.gif%_lzma.cpython-36m-x86_64-linux-gnu.soidle_32.pngidle_48.gif%cmath.cpython-36m-x86_64-linux-gnu.soidle_48.png&_crypt.cpython-36m-x86_64-linux-gnu.soplusnode.gif&parser.cpython-36m-x86_64-linux-gnu.sominusnode.gif'_ctypes.cpython-36m-x86_64-linux-gnu.soopenfolder.gifrpc.pygrep.pyidle.pytree.py'_curses.cpython-36m-x86_64-linux-gnu.soundo.pyNEWS.txtTODO.txt'_lsprof.cpython-36m-x86_64-linux-gnu.soidle.pyw'_opcode.cpython-36m-x86_64-linux-gnu.so'audioop.cpython-36m-x86_64-linux-gnu.so'termios.cpython-36m-x86_64-linux-gnu.so(_asyncio.cpython-36m-x86_64-linux-gnu.so(_decimal.cpython-36m-x86_64-linux-gnu.so(_hashlib.cpython-36m-x86_64-linux-gnu.so(_sqlite3.cpython-36m-x86_64-linux-gnu.so	ChangeLog(readline.cpython-36m-x86_64-linux-gnu.so(resource.cpython-36m-x86_64-linux-gnu.so)_testcapi.cpython-36m-x86_64-linux-gnu.so	editor.py)xxlimited.cpython-36m-x86_64-linux-gnu.so	help.html*_codecs_cn.cpython-36m-x86_64-linux-gnu.so*_codecs_hk.cpython-36m-x86_64-linux-gnu.so	iomenu.py	macosx.py*_codecs_jp.cpython-36m-x86_64-linux-gnu.so*_codecs_kr.cpython-36m-x86_64-linux-gnu.so	outwin.py*_codecs_tw.cpython-36m-x86_64-linux-gnu.so	rstrip.py+_testbuffer.cpython-36m-x86_64-linux-gnu.so	search.py+ossaudiodev.cpython-36m-x86_64-linux-gnu.so
+NEWS2x.txt
+browser.py,_ctypes_test.cpython-36m-x86_64-linux-gnu.so
+extend.txt
+history.py
+pyparse.py
+pyshell.py
+replace.py
+tooltip.py
+windows.py
+zzdummy.pyCREDITS.txtHISTORY.txtcalltips.pydebugger.pydebugobj.pymainmenu.py-_curses_panel.cpython-36m-x86_64-linux-gnu.so/_codecs_iso2022.cpython-36m-x86_64-linux-gnu.so/_multibytecodec.cpython-36m-x86_64-linux-gnu.sotextview.py/_testmultiphase.cpython-36m-x86_64-linux-gnu.socalltip_w.pycolorizer.pydelegator.pydynoption.pymulticall.pyrunscript.pystatusbar.pyautoexpand.py0_multiprocessing.cpython-36m-x86_64-linux-gnu.soconfig_key.pydebugger_r.pydebugobj_r.pyhelp_about.pyparenmatch.pypercolator.pyredirector.pysearchbase.pyzoomheight.pycodecontext.pyhyperparser.pypathbrowser.pystackviewer.pytabbedpages.pyautocomplete.pyconfig-keys.def3_testimportmultiple.cpython-36m-x86_64-linux-gnu.sogi_gobject	_error.py	module.py	overridesDee.pyGdk.pyGio.pyGtk.pyGLib.pyIBus.pyGedit.pyPango.pyconfig-main.defconfigdialog.pyscrolledlist.pysearchengine.pyautocomplete_w.pyconfig-highlight.defUnity.py
+GObject.py
+keysyms.pyconfig-extensions.defGIMarshallingTests.py
+_option.pyfixes
+repository	fix_ne.py
+fix_map.pyimporter.pydocstring.py_signalhelper.py_propertyhelper.py
+fix_zip.py#_gi.cpython-36m-x86_64-linux-gnu.sofix_dict.pyfix_exec.pyfix_long.pyfix_next.pyfix_repr.pyfix_apply.pyfix_input.pyfix_paren.py)_gi_cairo.cpython-36m-x86_64-linux-gnu.sofix_print.pyPILfix_raise.pyImage.pyTarIO.py_util.py	PSDraw.py
+ImageQt.py
+_binary.pyExifTags.pyFontFile.pyImageCms.pyImageOps.pyImageWin.pyPyAccess.pyTiffTags.pyfeatures.pyImageDraw.pyImageFile.pyImageFont.pyImageGrab.pyImageMath.pyImageMode.pyImagePath.pyImageShow.pyImageStat.pyfix_throw.pyfix_types.pyfix_buffer.pyfix_except.pyfix_filter.pyfix_future.pyfix_idioms.pyfix_import.pyfix_intern.pyfix_reduce.pyOleFileIO.pyImageChops.pyImageColor.pyImageDraw2.pyfix_reload.pyfix_urllib.pyImageMorph.pyfix_xrange.pyfix_asserts.pyfix_getcwdu.pyBdfFontFile.pyfix_has_key.pyfix_imports.pyfix_nonzero.pyfix_renames.pyfix_sys_exc.pyfix_unicode.pyfix_execfile.pyfix_exitfunc.pyfix_imports2.pyfix_operator.pyfix_ws_comma.pyfix_funcattrs.pyfix_itertools.pyfix_metaclass.pyContainerIO.pyGdImageFile.pyfix_raw_input.pyImageFilter.pyJpegPresets.pyPaletteFile.pyfix_basestring.pyPcfFontFile.pyfix_isinstance.pyImageEnhance.pyImagePalette.pyWalImageFile.pyImImagePlugin.pyImageSequence.pyBmpImagePlugin.pyCurImagePlugin.pyDcxImagePlugin.pyDdsImagePlugin.pyEpsImagePlugin.pyFliImagePlugin.pyFpxImagePlugin.pyGbrImagePlugin.pyGifImagePlugin.pyIcoImagePlugin.pyImageTransform.pyImtImagePlugin.pyMicImagePlugin.pyMpoImagePlugin.pyMspImagePlugin.pyPcdImagePlugin.pyPcxImagePlugin.pyPdfImagePlugin.pyPngImagePlugin.pyPpmImagePlugin.pyPsdImagePlugin.pySgiImagePlugin.pySunImagePlugin.pyTgaImagePlugin.pyWmfImagePlugin.pyXbmImagePlugin.pyXpmImagePlugin.pyFtexImagePlugin.pyfix_xreadlines.pyfix_methodattrs.pyfix_numliterals.pyfix_set_literal.pyfix_tuple_params.pyfix_standarderror.pyfix_itertools_imports.pyconv.pypgen.py	driver.py
+grammar.pyliterals.py	pygram.py	pytree.py
+patcomp.pyGrammar.txtrefactor.pybtm_utils.pyfixer_base.pyfixer_util.pybtm_matcher.pyPatternGrammar.txtlzma.pysite.pydump.py	dbapi2.pystat.pythis.pydnd.pytix.pyttk.pyfont.py	dialog.pyfiledialog.pymessagebox.pycolorchooser.pycommondialog.pyscrolledtext.pysimpledialog.pyuuid.pyGimpPaletteFile.pywave.pyIcnsImagePlugin.pyIptcImagePlugin.pyJpegImagePlugin.pyMpegImagePlugin.py
+headers.pyPalmImagePlugin.pyTiffImagePlugin.pyWebPImagePlugin.pyvalidate.py_tkinter_finder.pysimple_server.pyGimpGradientFile.py_pyio.pyPixarImagePlugin.pycgitb.pyJpeg2KImagePlugin.pychunk.pyMcIdasImagePlugin.pycrypt.pySpiderImagePlugin.pyheapq.pyXVThumbImagePlugin.pyBufrStubImagePlugin.pyFitsStubImagePlugin.pyGribStubImagePlugin.pyHdf5StubImagePlugin.pynetrc.pypipes.pypydoc.pyqueue.pyrunpy.pysched.pyshlex.pysmtpd.pysunau.py%_webp.cpython-36m-x86_64-linux-gnu.sotrace.py(_imaging.cpython-36m-x86_64-linux-gnu.so*_imagingft.cpython-36m-x86_64-linux-gnu.socase.py+_imagingcms.cpython-36m-x86_64-linux-gnu.somock.pysuite.py	result.py	runner.py
+signals.py	base64.py	binhex.py	bisect.py	codecs.py	codeop.py,_imagingmath.cpython-36m-x86_64-linux-gnu.so-_imagingmorph.cpython-36m-x86_64-linux-gnu.soaptcdrom.pyprogressREADME
+package.pyufwapplications.pybackend_iptables.pyxdgMenu.pyMime.py	Config.py	Locale.py
+IniFile.pyIconTheme.pyExceptions.pyMenuEditor.pyRecentFiles.pyDesktopEntry.pyBaseDirectory.pybus.py_dbus.pymainloopbdist.pybuild.pycheck.pyclean.pysdist.py	upload.pybuild_py.pyregister.pybdist_msi.pybdist_rpm.pybuild_ext.pybdist_dumb.pybuild_clib.pyinstall_lib.pyinstall_data.pybdist_wininst.pybuild_scripts.py
+proxies.py
+service.pylowlevel.pycommand_templateinstall_headers.pyinstall_scripts.pyinstall_egg_info.pydist.pydep_util.pydir_util.pyccompiler.pyextension.pyfile_util.pytext_file.pyarchive_util.pybcppcompiler.pyfancy_getopt.pymsvccompiler.py_msvccompiler.pymsvc9compiler.pyunixccompiler.pycygwinccompiler.pyversionpredicate.pyhz.pygbk.pyoem.pybig5.pydecorators.pygi_service.py_expat_introspect_parser.pyidnacodec.pyidnadata.pyintranges.pyuts46data.pylazruritest_uri.pyidna.pymbcs.pycp037.pycp273.pycp424.pycp437.pycp500.pycp720.pycp737.pycp775.pycp850.pycp852.pycp855.pycp856.pycp857.pycp858.pycp860.pycp861.pycp862.pycp863.pycp864.pycp865.pycp866.pycp869.pycp874.py_uri.pycp875.pycp932.pycp949.pycp950.pyjohab.pyconfigure.zcmlrestfulclientdocs
+example.pytest_error.pytest_oauth.pytest_atomicfilecache.py_json.py	authorize_browser.pyresource.pymakoext
+extract.pyturbogears.pyautohandler.pybabelplugin.pybeaker_cache.pylinguaplugin.pypreprocessors.pypygmentplugin.pylexer.pypygen.py	lookup.py
+codegen.py
+filters.py
+runtime.pypyparser.pytemplate.py_ast_util.pyparsetree.pyorcaacss.pyfind.pyorca.pywebtutorial_generator.pyappsekigagajimgeditunityxfwm4evincepidginBansheeEclipseMozillautf_7.pyutf_8.py	cp1006.py	cp1026.py	cp1125.py	cp1140.py	cp1250.py	cp1251.py	cp1252.py	cp1253.py	cp1254.py	cp1255.py	cp1256.py	cp1257.py	cp1258.py	euc_jp.py	euc_kr.py	gb2312.py	koi8_r.py	koi8_t.py	koi8_u.py	kz1048.py	palmos.py	rot_13.py	utf_16.py	utf_32.py
+aliases.py
+charmap.py
+cp65001.py
+gb18030.py
+latin_1.py
+ptcp154.py
+tis_620.pypunycode.pyuu_codec.pybig5hkscs.pybz2_codec.pyhex_codec.pyhp_roman8.pyiso8859_1.pyiso8859_2.pyiso8859_3.pyiso8859_4.pyiso8859_5.pyiso8859_6.pyiso8859_7.pyiso8859_8.pyiso8859_9.pymac_farsi.pymac_greek.pymac_roman.pyshift_jis.pyempathyundefined.pyutf_16_be.pyutf_16_le.pyutf_32_be.pyutf_32_le.pyutf_8_sig.pyiso2022_jp.pyiso2022_kr.pyiso8859_10.pyiso8859_11.pyiso8859_13.pyiso8859_14.pyiso8859_15.pyiso8859_16.pymac_arabic.pymac_latin2.pylifereaplannersofficeepiphanymetacity	SeaMonkey	evolution	gcalctool	gnome-mud	rhythmboxzlib_codec.pymac_iceland.pymac_turkish.pybase64_codec.pyeuc_jis_2004.pyeuc_jisx0213.pyiso2022_jp_1.pyiso2022_jp_2.pyiso2022_jp_3.pymac_centeuro.pymac_croatian.pymac_cyrillic.pymac_romanian.pyquopri_codec.pyiso2022_jp_ext.pyshift_jis_2004.pyshift_jisx0213.pyunicode_escape.pyiso2022_jp_2004.pyunicode_internal.pyraw_unicode_escape.py	ftplib.py	getopt.py	imghdr.pymachinery.py_bootstrap.py_bootstrap_external.py	locale.py	ntpath.py	opcode.py	poplib.py	pprint.py	pstats.py	pyclbr.py	quopri.py	shelve.py	shutil.py	signal.py	sndhdr.py	socket.py	string.py	symbol.py	timeit.py	turtle.py	typing.py	xdrlib.py	zipapp.py_base.py	thread.py
+notify-osdInstantbirdThunderbirdgnome-panelgnome-shellgnome-documentsgnome-keyring-askgnome-search-toolnotification-daemongtk-window-decoratorgnome-window-propertiesgnome-screensaver-dialogterminaltoolkitsQtGAILGeckoVCL.pyclutter	WebKitGtkJ2SE-access-bridge
+default.pyself_voicing.pyjson_backend.pygsettings_backend.pysound.py	brlmon.py	speech.py
+braille.py
+chnames.pycmdnames.pykeynames.pymessages.py
+copyreg.py
+difflib.py
+doctest.py
+filecmp.py
+fnmatch.py
+getpass.py
+gettext.py
+hashlib.py
+imaplib.py
+inspect.py
+keyword.py
+macpath.py
+mailbox.py
+mailcap.py
+nntplib.py
+numbers.py
+pkgutil.py
+profile.py
+pydoc_data	topics.py
+_pydoc.css
+reprlib.py
+secrets.py
+smtplib.py
+tarfile.py
+weakref.py
+zipfile.pyargparse.pyasynchat.pyasyncore.pycProfile.pycalendar.pycolorsys.pyoperator.pyoptparse.pyplatform.pyplistlib.pysymtable.pytabnanny.pytempfile.pytextwrap.pywarnings.py_strptime.pyfileinput.pyformatter.pyfractions.pyfunctools.pyipaddress.pylinecache.pymimetypes.pyposixpath.pysre_parse.pytelnetlib.pythreading.pytraceback.py__future__.py_pydecimal.pyguilabels.pyorca_i18n.pyphonnames.pycolornames.pyorca_state.pywhere_am_I.pyflat_review.pyinput_event.pykeybindings.pyliveregions.pymathsymbols.pymouse_review.pyspeechserver.pybrltablenames.pyevent_manager.pyorca_gui_find.pyorca_platform.pyorca_gui_prefs.pyscript_manager.pylabel_inference.pyorca_gtkbuilder.pycaret_navigation.pyeventsynthesizer.pyorca_gui_navlist.pyorca_gui_profile.pybraille_rolenames.pyobject_properties.pytutorialgenerator.pycommon_keyboardmap.pylaptop_keyboardmap.pypronunciation_dict.pydesktop_keyboardmap.pyorca_gui_commandlist.pypunctuation_settings.pytext_attribute_names.pynotification_messages.pystructural_navigation.pyspeechdispatcherfactory.pyxkit	xutils.pyxorgparser.pycompileall.pycontextlib.pynturl2path.pypy_compile.pystatistics.pystringprep.pywebbrowser.py_bootlocale.py_markupbase.py_weakrefset.pyantigravity.pygenericpath.pymacurl2path.pypickletools.pyrlcompleter.pysre_compile.pytracemalloc.py_compression.py_osx_support.pyconfigparser.pymodulefinder.pydummyheap.pypool.py
+context.pyreduction.pyforkserver.pypopen_fork.pysynchronize.pysharedctypes.pyresource_sharer.pypopen_forkserver.pypopen_spawn_posix.pypopen_spawn_win32.pysemaphore_tracker.pysocketserver.py_dummy_thread.py_sitebuiltins.pysitecustomize.pysre_constants.py__phello__.foo.py_compat_pickle.pydummy_threading.py_collections_abc.py_threading_local.pyconfig-3.6m-x86_64-linux-gnucyaml.pynodes.py	dumper.py	reader.py	tokens.py
+emitter.pycomposer.pyresolver.pyserializer.pyconstructor.pyrepresenter.pyzope	interfacero.pym1.pym2.pyodd.pyifoo.pydummy.py	idummy.py
+test_ro.pyifoo_other.pytest_advice.pytest_verify.pytest_adapter.pytest_element.pytest_sorting.pytest_document.pytest_registry.pytest_interface.pytest_exceptions.pytest_interfaces.pyadvisory_testing.pytest_declarations.pytest_odd_declarations.pybasemapping.pytest_idatetime.pytest_import_interfaces.py
+mapping.pysequence.pyidatetime.py	advice.py	verify.py
+adapter.py_flatten.pydeclarations.py>_zope_interface_coptimizations.cpython-36m-x86_64-linux-gnu.socairolibpython3.6.so&_cairo.cpython-36m-x86_64-linux-gnu.sodeferlouisoauthAptUrllibpython3.6m.soGtkUI.py*_sysconfigdata_m_linux_x86_64-linux-gnu.pyUI.py	AptUrl.py	Parser.py
+Helpers.py
+Version.pyMD2.pyMD4.pyMD5.pySHA.pyHMAC.py	RIPEMD.py	SHA224.py	SHA256.py	SHA384.py	SHA512.pyhashalgo.py$_MD2.cpython-36m-x86_64-linux-gnu.so$_MD4.cpython-36m-x86_64-linux-gnu.so'_SHA224.cpython-36m-x86_64-linux-gnu.so-1247971763python-skeletonspath.pypypathnosetoolsnumpymultiarray.pydjangodbmodelsmail.pyformsforms.pyformsets.pyviewsgenericpytestsys.py_csv.py'_SHA256.cpython-36m-x86_64-linux-gnu.solettuce
+terrain.pymath.py'_SHA384.cpython-36m-x86_64-linux-gnu.so'_SHA512.cpython-36m-x86_64-linux-gnu.so	behave.py*_RIPEMD160.cpython-36m-x86_64-linux-gnu.soasn1.py	number.py
+Counter.py
+alembic.py
+RFC1751.py
+logging.pyrandpool.pypy3compat.py
+sqlite3.pywinrandom.pyAUTHORS.txt_number_new.pyStringIO.pybuiltins.pycStringIO.pyitertools.py__builtin__.pycollections.py3.6&strxor.cpython-36m-x86_64-linux-gnu.so(_counter.cpython-36m-x86_64-linux-gnu.sosecrets.pyi3.5
+zipapp.pyi3.4AES.pyDES.pyXOR.pyARC2.py	locks.pyiARC4.py	tasks.pyiCAST.pyDES3.py
+queues.pyiBlowfish.pyfutures.pyistreams.pyiblockalgo.pyPKCS1_OAEP.pyprotocols.pyicoroutines.pyitransports.pyi	_stat.pyipathlib.pyiselectors.pyistatistics.pyitracemalloc.pyi_tracemalloc.pyi3.3lzma.pyiipaddress.pyi$_AES.cpython-36m-x86_64-linux-gnu.so$_DES.cpython-36m-x86_64-linux-gnu.so$_XOR.cpython-36m-x86_64-linux-gnu.so%_ARC2.cpython-36m-x86_64-linux-gnu.so%_ARC4.cpython-36m-x86_64-linux-gnu.so%_CAST.cpython-36m-x86_64-linux-gnu.so%_DES3.cpython-36m-x86_64-linux-gnu.so)_Blowfish.cpython-36m-x86_64-linux-gnu.soposix.pyfallback.pyrng_base.py
+SHAd256.pyFortunaGenerator.pyFortunaAccumulator.py_UserFriendlyRNG.pyKDF.pyChaffing.pyAllOrNothing.pySelfTesttest_MD2.pytest_MD4.pytest_MD5.pytest_SHA.pytest_HMAC.pytest_RIPEMD.pytest_SHA224.pytest_SHA256.pytest_SHA384.pytest_SHA512.pypath.pyitest_asn1.pytest_number.pytest_Counter.pyentities.pyi
+client.pyitest_AES.pytest_DES.pytest_XOR.pytest_ARC2.py
+server.pyitest_ARC4.pytest_CAST.pytest_DES3.pytest_Blowfish.pycookiejar.pyitest_pkcs1_oaep.py
+test_nt.pytest_posix.pytest_generic.pydecoder.pyitest_fallback.pyencoder.pyitest_SHAd256.pytest_FortunaGenerator.pytest_FortunaAccumulator.pytest_random.pytest_rpoolcompat.pytest__UserFriendlyRNG.pytest_KDF.pytest_rfc1751.pytest_chaffing.pytest_AllOrNothing.pytest_DSA.pytest_RSA.pytest_ElGamal.pytest_importKey.pytest_pkcs1_pss.pytext.pyi	audio.pyist_common.pyDSA.py	image.pyiRSA.py_DSA.py_RSA.py	pubkey.py
+ElGamal.py_slowmath.pyapplication.pyinonmultipart.pyi
+header.pyi
+policy.pyiencoders.pyigenerator.pyiiterators.pyifeedparser.pyi)_fastmath.cpython-36m-x86_64-linux-gnu.socontentmanager.pyiheaderregistry.pyiPKCS1_PSS.py	ascii.pyi	panel.pyitextpad.pyigc.pyiio.pyire.pyipct_warnings.pyQuirksquirkinfo.pyquirkreader.pyquirkapplier.pyapportui.py	report.py
+crashdb.pyREThread.pycrashdb_impl	debian.py	memory.pyfileutils.pyhookutils.pypackaging.pysandboxutils.pypackaging_impl.pydebian	arfile.py
+debtags.pychangelog.pycopyright.pydeprecation.pydebian_support.pyuno.pycaribousettingssetting_types.pyast.pyiimp.pyicaribou_settings.pypreferences_window.py
+dbapi2.pyicertifissl.pyisys.pyittk.pyivalidate.pyi_ast.pyi_imp.pyiglob.pyigzip.pyispwd.pyistat.pyitime.pyimock.pyi	_json.pyi	utf_8.pyi	fcntl.pyi	heapq.pyimachinery.pyi	pipes.pyi	queue.pyi	runpy.pyi	shlex.pyi
+atexit.pyi	_base.pyi
+thread.pyi
+getopt.pyi
+msvcrt.pyi
+ntpath.pyi
+shelve.pyi
+shutil.pyi
+signal.pyi
+string.pyi
+symbol.pyi
+typing.pyi_curses.pyi_thread.pyidecimal.pyifnmatch.pyiweak.pemgetpass.pyigettext.pyihashlib.pyiinspect.pyimacpath.pyinntplib.pyireprlib.pyismtplib.pyibuiltins.pyiplatform.pyiresource.pyitempfile.pyitextwrap.pyi_operator.pyi_warnings.pyifunctools.pyiitertools.pyiposixpath.pyisre_parse.pyi
+cacert.pemcompileall.pyinturl2path.pyi_markupbase.pyi_subprocess.pyipool.pyicontext.pyimanagers.pyisynchronize.pyi_compression.pyiconfigparser.pyisocketserver.pyi_dummy_thread.pyisre_constants.pyi_posixsubprocess.pyi_threading_local.pyi_importlib_modulespec.pyiold_root.pemchardetclichardetect.pyescsm.py	jpcntx.py	mbcssm.py
+jisfreq.pybig5freq.pyescprober.pyeuckrfreq.pyeuctwfreq.pybig5prober.pygb2312freq.pysjisprober.pyutf8prober.pycp949prober.pyeucjpprober.pyeuckrprober.pyeuctwprober.pygb2312prober.pyhebrewprober.pylatin1prober.pycharsetprober.pylangthaimodel.pylanggreekmodel.pylanghebrewmodel.pymbcharsetprober.pymbcsgroupprober.pysbcharsetprober.pysbcsgroupprober.pychardistribution.pylangturkishmodel.pylangcyrillicmodel.pyuniversaldetector.pycharsetgroupprober.pycodingstatemachine.pylangbulgarianmodel.pylanghungarianmodel.pyjanitor
+plugincorecruft.py	plugin.py
+manager.pykeyringhandler.pyisaxutils.pyixmlreader.pyi	escape.pyplatform_.pyproperties.pyElementPath.pyiElementTree.pyicElementTree.pyiElementInclude.pyiuu.pyibz2.pyicgi.pyicsv.pyidis.pyigrp.pyipgen.pyi
+driver.pyigrammar.pyiliterals.pyi
+pygram.pyi
+pytree.pyihandlers.pyipdb.pyipty.pyipwd.pyitty.pyi_csv.pyicode.pyicopy.pyihmac.pyimath.pyimmap.pyisite.pyiuuid.pyiwave.pyizlib.pyi	array.pyi	chunk.pyi	cmath.pyi	crypt.pyi	bdist.pyi	build.pyi	check.pyi	clean.pyi	sdist.pyiinstall.pyibuild_py.pyiregister.pyibdist_msi.pyibdist_rpm.pyibuild_ext.pyibdist_dumb.pyibuild_clib.pyiinstall_lib.pyiinstall_data.pyibdist_wininst.pyibuild_scripts.pyibdist_packager.pyiinstall_headers.pyiinstall_scripts.pyilog.pyidist.pyi	spawn.pyiversion.pyidep_util.pyidir_util.pyifilelist.pyiccompiler.pyiextension.pyifile_util.pyitext_file.pyiarchive_util.pyibcppcompiler.pyifancy_getopt.pyimsvccompiler.pyiunixccompiler.pyicygwinccompiler.pyi	errno.pyi	sched.pyi	smtpd.pyi	sunau.pyi	trace.pyi
+_heapq.pyi
+base64.pyi
+binhex.pyi
+bisect.pyi
+codecs.pyi
+codeop.pyi
+ftplib.pyi
+locale.pyi
+opcode.pyi
+pickle.pyi
+poplib.pyi
+pprint.pyi
+pstats.pyi
+pyclbr.pyi
+quopri.pyi
+select.pyi
+sndhdr.pyi
+socket.pyi
+struct.pyi
+syslog.pyi
+timeit.pyi
+xdrlib.pyi_bisect.pyi_codecs.pyi_random.pyidifflib.pyidoctest.pyifilecmp.pyiimaplib.pyikeyword.pyimarshal.pyinumbers.pyipkgutil.pyiprofile.pyitest_OS_X.pytarfile.pyitest_Windows.pytermios.pyitest_kwallet.pyweakref.pyitest_SecretService.pyzipfile.pyi_weakref.pyitest_backend.pyargparse.pyicli.pyasynchat.pyiasyncore.pyihttp.pybinascii.pyiOS_X.pycProfile.pyicalendar.pyicolorsys.pyidatetime.pyioperator.pyioptparse.pyifail.pyplistlib.pyireadline.pyisymtable.pyitabnanny.pyiwarnings.pyifileinput.pyiformatter.pyifractions.pyilinecache.pyimimetypes.pyitelnetlib.pyithreading.pyitraceback.pyizipimport.pyi__future__.pyicontextlib.pyipy_compile.pyistringprep.pyiwebbrowser.pyi_weakrefset.pyipickletools.pyirlcompleter.pyisre_compile.pyiunicodedata.pyi
+kwallet.py_OS_X_API.pySecretService.pyjwtpy27compat.pypy33compat.pydevpi_client.pygetpassbackend.pyolefile
+olefile.pypexpectFSM.pyANSI.pyasync.pypxssh.py	bashrc.sh	expect.py	screen.pyreplwrap.pyfdpexpect.pypty_spawn.pyspawnbase.pypopen_spawn.pypyatspirole.pystate.pyvalue.py
+algorithmspy_ecdsa.pyi	action.pypycrypto.pyiappevent.pyalgorithms.pyisixatspienum.pycomponent.pyhypertext.pyselection.pytablecell.pydeviceevent.pyeditabletext.pyAccessibility.pyspeechd_test.pysystemdtest_login.pymovesdocutilstest_daemon.pytest_journal.py	daemon.py
+journal.pyrst%id128.cpython-36m-x86_64-linux-gnu.so	roles.pyi
+states.pyiexamples.pyiwerkzeug%login.cpython-36m-x86_64-linux-gnu.so'_daemon.cpython-36m-x86_64-linux-gnu.so'_reader.cpython-36m-x86_64-linux-gnu.sodebug(_journal.cpython-36m-x86_64-linux-gnu.sourl.pyssl_.pywait.pyretry.py
+timeout.pysocks.pyntlmpool.pyappengine.pypyopenssl.py_securetransportbindings.pylow_level.pysecuretransport.pymakefile.py_implementation.py	fields.pyfilepost.pypoolmanager.py_collections.pyconnectionpool.pywadllibdatarepr.pyiconsole.pyiiso_strptime.pytbtools.pyihttplib2
+iri2uri.pykeyringsaltfile.pypyfs.pyGnome.pyatom.pyilint.pyi	cache.pyi
+fixers.pyi
+iterio.pyilimiter.pyiprofiler.pyijsrouting.pyitesttools.pyisecurecookie.pyihttp.pyitest.pyiurls.pyiwsgi.pyi	local.pyimulti.py	Google.py
+script.pyi
+keyczar.pyrouting.pyiserving.pyitestapp.pyisecurity.pyi_internal.pyi_reloader.pyifilesystem.pyiformparser.pyiuseragents.pyidatastructures.pyiposixemulation.pyi	typed_astast3.pyi	ast27.pyiconversions.pyiitsdangerous.pyipkg_resources.pyifile_base.py_win_crypto.pyapi.pycerts.pyhooks.pyadapters.pypackages.pysessions.pystructures.py__version__.pystatus_codes.py_internal_utils.py	aptdaemonworkerpkworker.pyaptworker.pylock.pyloop.pycrash.py
+console.pyprogress.pynetworking.pypolicykit1.pygtk3widgets.py	reportlablibabag.pycorp.pyyaml.pyarciv.pyfonts.pyunits.pybotos3acl.pyikey.pyi	colors.py	styles.py
+attrmap.pyboxstuff.pyrl_accel.pyPyFontify.pyextformat.pygeomutils.pypagesizes.pyrparsexml.pysequencer.pytestutils.pytextsplit.pycodecharts.pyfontfinder.pyformatters.pycors.pyiuser.pyi
+bucket.pyi
+prefix.pyikeyfile.pyitagging.pyiwebsite.pyilifecycle.pyimultidelete.pyideletemarker.pyibucketlogging.pyibucketlistresultset.pyiec2hyphen.mashednormalDate.pypdfencrypt.pyrandomtext.pyrltempfile.pyvalidators.pypygments2xpre.pyelb)_rl_accel.cpython-36m-x86_64-linux-gnu.sopdfgen	canvas.py
+pdfgeom.pypdfimages.pypathobject.pytextobject.pypdfbase	pdfdoc.py
+pdfform.py
+ttfonts.pyacroform.pycidfonts.pypdfutils.py_fontdata.pyrl_codecs.pypdfmetrics.pypdfpattern.py_cidfontdata.py_can_cmap_data.py_fontdata_enc_pdfdoc.py_fontdata_enc_symbol.py_fontdata_enc_winansi.py_fontdata_enc_macroman.py_fontdata_enc_standard.py_fontdata_enc_macexpert.py_fontdata_widths_symbol.pykms_fontdata_widths_courier.py_fontdata_enc_zapfdingbats.py_fontdata_widths_helvetica.py_fontdata_widths_timesbold.py_fontdata_widths_timesroman.py_fontdata_widths_courierbold.py_fontdata_widths_timesitalic.py _fontdata_widths_zapfdingbats.py!_fontdata_widths_helveticabold.py"_fontdata_widths_courieroblique.py#_fontdata_widths_timesbolditalic.py$_fontdata_widths_helveticaoblique.py&_fontdata_widths_courierboldoblique.py(_fontdata_widths_helveticaboldoblique.pygraphicschartsaxes.pyareas.py	dotbox.py	spider.py
+legends.py
+utils3d.pydoughnut.pyslidebox.pybarcharts.pylineplots.pypiecharts.pylinecharts.pytextlabels.pybarcodeqr.pylto.pytest.pyusps.pyeanbc.py	code39.py	code93.py	usps4s.py
+code128.py
+widgets.py
+layer1.pyifourstate.pyqrencoder.pyecc200datamatrix.pysamplesradar.py	bubble.py	runall.py
+plugin.pyi
+scatter.pyexception.pyiline_chart.pysimple_pie.pyregioninfo.pyiexcelcolors.pystacked_bar.pyauth_handler.pyiexploded_pie.pyfilled_radar.pyclustered_bar.pypytzscatter_lines.pystacked_column.pyclustered_column.pyscatter_lines_markers.pylinechart_with_markers.pywidgetslazy.pyiflags.pygrids.pyeventcal.pysignsandsymbols.py	shapes.pyrenderPM.pyrenderPS.pyrenderPDF.pyrenderSVG.pyrenderbase.pytestshapes.pywidgetbase.pytestdrawings.py)_renderPM.cpython-36m-x86_64-linux-gnu.soplatypus
+dumper.pyi
+loader.pyi
+reader.pyi
+tokens.pyiemitter.pyiscanner.pyicomposer.pyiresolver.pyiserializer.pyiconstructor.pyirepresenter.pyiclickpara.py	frames.py	tables.py
+figures.pyflowables.pyparaparser.pydoctemplate.pyxpreformatted.pytableofcontents.pyrl_config.pyrl_settings.py
+aptsources
+asn1crypto_perf_big_num_ctypes.pycms.pycrl.pycsr.pypdf.pypem.pytsp.py
+termui.pyiglobals.pyidecorators.pyiformatting.pyi_ffi.py_int.py_iri.pykeys.pyocsp.py_inet.pyalgos.py	_types.py	pkcs12.py
+_errors.py_ordereddict.py_teletex_codec.py_elliptic_curve.pyMD2.pyiMD4.pyiMD5.pyiSHA.pyiHMAC.pyi
+RIPEMD.pyi
+SHA224.pyi
+SHA256.pyi
+SHA384.pyi
+SHA512.pyihashalgo.pyi
+_native.py
+ptyprocess_fork_pty.pyptyprocess.py
+simplejsontest_dump.pytest_fail.pytest_tool.pytest_float.pytest_pass1.pytest_pass2.pytest_pass3.pytest_tuple.pytest_decode.pytest_errors.pytest_indent.pytest_decimal.pytest_default.pytest_unicode.pytest_for_json.pytest_iterable.pytest_raw_json.pytest_speedups.pytest_subclass.pytest_recursion.pytest_namedtuple.pytest_scanstring.pytest_separators.pytest_str_subclass.pytest_item_sort_key.pyasn1.pyi
+number.pyi
+strxor.pyiCounter.pyiRFC1751.pyirandpool.pyitest_check_circular.pytest_encode_for_html.pytest_bigint_as_string.pytest_bitsize_int_as_string.pytest_encode_basestring_ascii.pyAES.pyiDES.pyiXOR.pyiARC2.pyiARC4.pyiCAST.pyiDES3.pyiBlowfish.pyiblockalgo.pyiPKCS1_OAEP.pyifallback.pyirng_base.pyiSHAd256.pyi
+usbcreatormisc.pyudisks	frontendsunitysupport.pyDistUpgradeapt_clone.pyQUrlOpener.pyGtkProgress.pydist-upgrade.pyDistUpgradeMain.pyDistUpgradeView.pyDistUpgradeCache.pyDistUpgradeApport.pyDistUpgradeQuirks.pyDistUpgradeFetcher.pyDistUpgradeGettext.pyDistUpgradePatcher.pyDistUpgradeVersion.pyDistUpgradeViewKDE.pyReleaseNotesViewer.pyapt_btrfs_snapshot.pyDistUpgradeAptCdrom.pyDistUpgradeViewGtk3.pyDistUpgradeViewText.pySimpleGtk3builderApp.pyxorg_fix_proprietary.pyDistUpgradeController.pyDistUpgradeFetcherKDE.pyDistUpgradeFetcherCore.pyDistUpgradeFetcherSelf.pyDistUpgradeConfigParser.pyReleaseNotesViewerWebkit.py DistUpgradeViewNonInteractive.pycupshelpersppds.py	smburi.pycupshelpers.pyopenprinting.pyinstalldriver.pyxmldriverprefs.pypygtkcompatgenerictreemodel.pyx509oid.pyname.pyextensions.pygeneral_name.pycertificate_transparency.pyFortunaGenerator.pyiFortunaAccumulator.pyiKDF.pyiChaffing.pyiAllOrNothing.pyi
+ciphers.pydecode_asn1.pyencode_asn1.pyDSA.pyiRSA.pyi
+pubkey.pyiElGamal.pyiPKCS1_PSS.pyipct_warnings.pyijinja2
+binding.py_conditional.pyext.pyimeta.pyi	lexer.pyi	tests.pyibccache.pyifilters.pyibooksXMLSchema.xsdxhtml-lat1.entxhtml-symbol.entxhtml-special.enthtml5meta-ext.rncembed-ext.rnccommon-ext.rncits20-html5.rncits20-html5-types.rnccore-scripting-ext.rnc
+message.py	html5.rnc
+xhtml5.rnchandlers.pytoken.pyglib.pytypes.py	server.pycache.pychat.py	script.pybookmarks.pyformatting.pyspellcheck.pyscript_utilities.pyspeech_generator.pybraille_generator.py
+process.pydist-packagescoremanagers.pyostest_winrandom.pytest_pkcs1_15.pymessage.pyiPKCS1_v1_5.pyabc.pyisubprocess.pyimultiprocessingprocess.pyii18n.pytokenize.pyicmd.pyi
+config.pyi	token.pyisysconfig.pyi__main__.py	parse.pyitest_docs.pyversion.txt
+Windows.pywrappers.pyi	client.pyHashcore.py	parser.py
+debconf.pyUtilCipherRandomOSRNGFortuna)_speedups.cpython-36m-x86_64-linux-gnu.sobasedistinfo.pysourceslist.pyProtocolx509.py	PublicKey	SignaturePKCS1_v1_5.pyiopenssl	nodes.pyicmac.py	hashes.pydh.pyec.pydsa.pyrsa.py
+padding.pyinterfaces.py
+parser.pyiteststest_launchpad.py	types.pyiutil.pyiMetaRelease.pycontrib
+models.pyiexceptions.pyi
+markers.py__about__.pyexceptions.py__init__.pyi	config.pygtkSimpleGtkbuilderApp.py	distro.py__init__.pyzip-safeentry_points.txtnot-zip-saferequires.txtnamespace_packages.txtPKG-INFOtop_level.txtdependency_links.txtloaders.pyiruntime.pyisandbox.pyivisitor.pyicompiler.pyidefaults.pyioptimizer.pyi_stringdefs.pyienvironment.pyipymysql
+primitiveskdfhkdf.pyerr.pyi	constantsER.pyikbkdf.py	pbkdf2.py	scrypt.py
+x963kdf.pyconcatkdf.pymac.pyciphersFLAG.pyi
+CLIENT.pyimodes.pyCOMMAND.pyialgorithms.pyFIELD_TYPE.pyiSERVER_STATUS.pyi	times.pyicursors.pyi	twofactorconverters.pyihotp.pyconnections.pyidateutiltotp.py
+asymmetrictz
+keywrap.pyconstant_time.pyserialization.py	fernet.pylaunchpadlibtest_http.pytest_credential_store.pytz.pyi_common.pyitesting
+helpers.pyresources.pyuris.pyunohelper.pyUbuntuDrivers	detect.pykerneldetection.pyrelativedelta.pyiUpdateManagerpynamodbCoreroam.py
+MyCache.pyUpdateList.py
+connection	table.pyiindexes.pyisettings.pyithrottle.pyiattributes.pyiapi.pyiurl.pyiAlertWatcher.pyLivePatchSocket.py
+Dialogs.pyHelpViewer.pyssl_.pyi	retry.pyitimeout.pyiUnitySupport.pyUpdateManager.pyChangelogViewer.pyUpdatesAvailable.py_implementation.pyi
+fields.pyifilepost.pyipoolmanager.pyi_collections.pyiconnectionpool.pyi	hooks.pyiMetaReleaseGObject.pyUpdateManagerVersion.pyadapters.pyidebian_bundlepkg_resourcesstructures.pyiexternstatus_codes.pyi_vendor	packagingssl_match_hostname.pyi	emoji.pyispecifiers.py_structures.pyrequirements.py	ujson.pyi
+appdirs.pypyparsing.pypy31compat.pysecretstorageitem.py_native.pyi
+defines.py_speedups.pyidhcrypto.py_constants.pyicertifi.pyiatomicwritesNvidiaDetectoralternatives.pynvidiadetector.pycroniter.pyidistro_info.pycharacteristiclsb_release.pybackports_abc.pyispeechd_configsingledispatch.pyimypy_extensions.pyityping_extensions.pyiCommandNotFoundCommandNotFound.pyOleFileIO_PL.pyHweSupportStatus	consts.pyLanguageSelectorGtkLanguageSelector.pyxkb.py	macros.pyImConfig.pyLangCache.pyLocaleInfo.pyLanguageSelector.pydistro_info_testtest_help.pytest_flake8.pytest_pylint.pytest_distro_info.pyidna-2.5.egg-infopbr.jsonproblem_report.pyufw-0.35.egg-infosoftwareproperties
+dialogs.pyDialogAdd.pyDialogEdit.pyDialogMirror.pyCdromProgress.pyDialogCacheOutdated.pyDialogAddSourcesList.pySoftwarePropertiesGtk.pySoftwarePropertiesDBus.pyppa.py
+AptAuth.pyshortcuts.pyMirrorTest.pycloudarchive.pyCountryInformation.pySoftwareProperties.pyMako-1.0.7.egg-infoUbuntuSystemServicepyxdg-0.25.egg-infosix-1.10.0.egg-infoxkit-0.0.0.egg-infoPyYAML-3.12.egg-infodefer-1.0.6.egg-infolouis-3.0.0.egg-infooauth-1.0.1.egg-infoBrlapi-0.6.5.egg-infoPillow-4.1.1.egg-infoapport_python_hook.pyapturl-0.5.2.egg-infoolefile-0.44.egg-infochardet-3.0.4.egg-infopexpect-4.2.1.egg-infopycups-1.9.73.egg-infowadllib-1.3.2.egg-infoMarkupSafe-1.0.egg-infohttplib2-0.9.2.egg-infokeyring-10.4.0.egg-infolazr.uri-1.0.3.egg-infopycrypto-2.6.1.egg-infourllib3-1.21.1.egg-infocupshelpers-1.0.egg-infolanguage_support_pkgs.pyreportlab-3.4.0.egg-inforequests-2.18.1.egg-infocryptography-1.9.egg-infodistro_info-0.17.egg-infokeyrings.alt-2.2.egg-infopygobject-3.24.1.egg-infoasn1crypto-0.22.0.egg-infocertifi-2017.4.17.egg-infokeyrings.alt-2.2-nspkg.pthsimplejson-3.11.1.egg-infousb_creator-0.3.3.egg-infosystem_service-0.3.egg-infosystemd_python-234.egg-infoSecretStorage-2.3.1.egg-infolaunchpadlib-1.10.5.egg-infopython_apt-1.4.0.b3.egg-infopython_debian-0.1.30.egg-infozope.interface-4.3.2.egg-infocommand_not_found-0.3.egg-infolanguage_selector-0.1.egg-infozope.interface-4.3.2-nspkg.pth unattended_upgrades-0.1.egg-info"lazr.restfulclient-0.13.5.egg-info$cups.cpython-36m-x86_64-linux-gnu.so$ubuntu_drivers_common-0.0.0.egg-info%_yaml.cpython-36m-x86_64-linux-gnu.so&brlapi.cpython-36m-x86_64-linux-gnu.so'apt_pkg.cpython-36m-x86_64-linux-gnu.so'cupsext.cpython-36m-x86_64-linux-gnu.so'scanext.cpython-36m-x86_64-linux-gnu.so(apt_inst.cpython-36m-x86_64-linux-gnu.so(hpmudext.cpython-36m-x86_64-linux-gnu.so(pcardext.cpython-36m-x86_64-linux-gnu.so-_cffi_backend.cpython-36m-x86_64-linux-gnu.so._dbus_bindings.cpython-36m-x86_64-linux-gnu.so3_dbus_glib_bindings.cpython-36m-x86_64-linux-gnu.so_tracemalloc.py_symtable.py_asyncio.py_hashlib.py
+_lsprof.py_sre.pybinascii.py_codecs_hk.pyreadline.py_posixsubprocess.pycups.py
+_blake2.pycmath.py_codecs_kr.pyhpmudext.py
+_thread.py_stat.pygc.py	atexit.py_curses_panel.py_codecs_jp.pyfcntl.py_io.py
+_ctypes.py_ctypes_test.pyzipimport.pytime.py
+_struct.py	select.pyerrno.py
+_string.py	_heapq.py_operator.pymmap.py
+_locale.pyxxsubtype.py_decimal.py
+_codecs.py_functools.pyspwd.py_sha1.pyossaudiodev.py_warnings.py
+_random.py
+_signal.py_yaml_ast.pypwd.py	syslog.py	_crypt.py_multiprocessing.py
+cupsext.py	Struct.py_speedups.pyarray.py_codecs_iso2022.py_testcapi.py_sha3.py_datetime.py_elementtree.pyxxlimited.py
+_socket.py
+_sha512.py
+_sha256.py_dbus_bindings_cffi_backend.py
+termios.py_codecs_cn.py_testbuffer.py
+_pickle.py
+marshal.py_dbus_glib_bindings.py_imp.pynis.py_md5.py_dbm.py_testimportmultiple.py
+scanext.py_lzma.py_sqlite3.py
+_curses.pygrp.py_weakref.pypcardext.pyfaulthandler.py
+audioop.py_testmultiphase.pyapt_pkg
+_bisect.py
+_opcode.py
+pyexpat.pyunicodedata.pyzlib.py_ssl.py_multibytecodec.pyapt_inst.py_codecs_tw.py	brlapi.py_gdbm.py_bz2.py
+_reader.py
+_daemon.pyid128.pylogin.py_journal.py_rl_accel.py_renderPM.py!_zope_interface_coptimizations.py_MD2.py_MD4.py
+_SHA224.py
+_SHA384.py
+_SHA512.py_RIPEMD160.py_counter.py	strxor.py_ARC2.py_XOR.py_DES.py_DES3.py_AES.py_ARC4.py_Blowfish.py_CAST.py_fastmath.pyCEmitter.pyRepresenterError.py
+CParser.pyScannerError.pyAnchorToken.pyAliasToken.pyScalarNode.pyDocumentEndToken.pyConstructorError.pyDocumentStartToken.pyTagToken.pyScalarEvent.pyBlockEndToken.pySequenceNode.py
+_SHA256.pyReaderError.pyMark.pyComposerError.pyFlowEntryToken.pyFlowMappingEndToken.pySequenceEndEvent.pySequenceStartEvent.pyBlockSequenceStartToken.pyKeyToken.pyBlockMappingStartToken.pyStreamEndEvent.pyParserError.pyValueToken.pyStreamStartToken.pyDirectiveToken.pyMappingNode.pyMappingEndEvent.pyEmitterError.pyDocumentStartEvent.pyMappingStartEvent.pyAliasEvent.pyDocumentEndEvent.pyFlowMappingStartToken.pySerializerError.pyBlockEntryToken.pyYAMLError.pyStreamEndToken.pyStreamStartEvent.pyFlowSequenceStartToken.pyFlowSequenceEndToken.py	UInt64.py	Double.py	UInt16.py_LibDBusConnection.pySignature.py_LongBase.py	UnixFd.pyDictionary.pyNativeMainLoop.py_SignatureIter.py_BytesBase.py_StrBase.py	String.pyMethodCallMessage.pySignalMessage.pyMethodReturnMessage.pyScalarToken.pyArray.py
+_Server.pyInt16.py_FloatBase.pyByte.py	UInt32.pyInt64.py
+Boolean.pyByteArray.pyErrorMessage.pyInt32.pyObjectPath.py
+Message.pyConnection.py	_cairo.py_gi_gi_cairo.pyVFuncInfo.pyCallableInfo.pyInfoType.pyRepository.pyFunctionInfo.pyErrorDomainInfo.pyBoxed.pyVFuncInfoFlags.pyBaseInfo.pyFieldInfo.pyFieldInfoFlags.py
+ArgInfo.pyCCallback.pyStructInfo.pyUnionInfo.pyRepositoryError.pyTransfer.pySignalInfo.pyValueInfo.pyPendingCall.pyResultTuple.pyArrayType.pyConstantInfo.pyInterfaceInfo.pyPyGIDeprecationWarning.pyDirection.pyObjectInfo.pyScopeType.pyEnumInfo.pyRegisteredTypeInfo.pyCallbackInfo.pyFunctionInfoFlags.pyTypeInfo.pyUnresolvedInfo.pyPyGIWarning.pyPropertyInfo.py
+TypeTag.py_padding.py_openssl.py_constant_time.py
+TagFile.pyActionGroup.py
+Package.pyIndexFile.pyHashStringList.pyTagRemove.pyPackageFile.pyMetaIndex.pySourceList.pyTagSection.pyProblemResolver.pyTagRewrite.pyPackageList.pyDependency.pyPackageRecords.pyCache.py	Policy.pyAcquireItem.pyHashString.pyCdrom.py
+Acquire.py_PackageManager.pyError.pySystemLock.pyTag.py	Hashes.pyDescription.pySourceRecords.pyGroup.pyAcquireItemDesc.pyDependencyList.pyFileLock.pyGroupList.pyAcquireFile.pyOrderList.pyPackageManager.pyAcquireWorker.pyTagRename.pyConfiguration.py_imagingmorph.py_imaging.py_imagingft.py_imagingmath.py_webp.py_imagingcms.pyDepCache.pydimensions.xmljdk.table.xmlpackages.xmlwindow.manager.xmlworkspace.xmlsite-packagesuntitled.imluntitledlib64include
+pyvenv.cfgbinpython3pythonglibc.pypep425tags.pyinject_meta_charset.pysax.pylinklockfile.pysqlitelockfile.pysymlinklockfile.pypidlockfile.pymkdirlockfile.pybar.py
+counter.py
+spinner.py_cmd.pycontroller.pyfilewrapper.pyserialize.pycachesheuristics.py
+wrapper.pyredis_cache.pyfile_cache.pyx_user_defined.py	labels.pymklabels.pycmdoptions.pyvcslocations.pybasecommand.py
+resolve.py
+operationsbuild_env.pyutilscommandsbaseparser.pyreqreq_file.pyreq_install.py
+req_set.pyreq_uninstall.pygit.pymercurial.py	bazaar.pysubversion.pytemp_dir.pysetuptools_build.pyoutdated.pyencoding.pyfilesystem.pycompletion.pyshow.pylist.pyuninstall.pyhash.py
+prepare.pypip-10.0.1-py3.6.egg	_internalhtml5libcachecontrolretrying.pylockfilecoloramadistlibpytomlwebencodingsmsgpackpackage_data.py	writer.pyt32.exew64.exelocators.py
+scripts.pydatabase.pyw32.exemetadata.py	_backportt64.exemanifest.pysysconfig.cfg_version.pyansi.pyansitowin32.py
+winterm.pywin32.pyinitialise.py_tokenizer.pytreewalkers_ihatexml.py_trie_inputstream.pyfilters	_utils.py	genshi.pydom.pyetree_lxml.pyetree.pydownload.pyconfiguration.py	freeze.pyindex.pyeasy-install.pthsetuptools.pthpipeasy_installsetuptools-39.1.0-py3.6.eggEGG-INFOSOURCES.txtwheel.pypy36compat.pyeasy_install.pytreeadaptershtml5parser.pytreebuilderspy.py	datrie.pysanitizer.pylint.pyalphabeticalattributes.pywhitespace.pyoptionaltags.pyx86_64-linux-gnu-gcc-nm-7
+faked-sysvdpkg-distaddfilemtrace
+pyversionsc99-gcc	gcov-dumppip2!x86_64-linux-gnu-python2.7-configgcc-ranlib-7dpkg-sourcegcc-7dpkg-genbuildinfo	dpkg-namepdb2.7x86_64-linux-gnu-gcov-dumpc89-gccdpkg-checkbuilddepsc99	faked-tcpdpkg-parsechangelog	pycompilemake-first-existing-targetdpkg-genchangesmakex86_64-linux-gnu-gcc-7g++-7dpkg-gensymbolsgcov-7ccc++dpkg-scanpackagesgccx86_64-linux-gnu-gccx86_64-linux-gnu-gcc-ranlibfakeroot-sysvpython2-configsprofpython2x86_64-linux-gnu-gcov-tool-7x86_64-linux-gnu-g++c892to3-2.7x86_64-linux-gnu-g++-7pydoc2.7	python2.72to3x86_64-linux-gnu-gcc-ar
+gcc-ranlibx86_64-linux-gnu-gcc-nmx86_64-linux-gnu-gcov-7x86_64-linux-gnu-gcov-dump-7x86_64-linux-gnu-gcov-tooldpkg-shlibdeps
+dh_python2x86_64-linux-gnu-gcovrpcgenpydocpython2.7-configdpkg-scansourcesgcc-argcc-nm-7pycleandpkg-buildpackagepython-configdpkg-architecturex86_64-linux-gnu-gcc-ar-7fakeroot-tcpsotruss	pygettextg++gcc-nmpygettext2.7dpkg-gencontrolgcov-tool-7dpkg-buildflagsgcc-ar-7gencat	gcov-toolgcov-dump-7x86_64-linux-gnu-gcc-ranlib-7gcovdpkg-vendorpdbx86_64-linux-gnu-python-configfakerootdpkg-mergechangelogspip3easy_install-3.6pip3.6
+setuptoolscli.exealias.py	rotate.py	setopt.py
+develop.pyegg_info.pysaveopts.pybdist_egg.pydist_info.pyupload_docs.pylauncher manifest.xmlgui.exemsvc.py	launch.py	monkey.py
+cli-32.exe
+cli-64.exe
+depends.py
+gui-32.exe
+gui-64.exe
+sandbox.pyscript.tmplbuild_meta.pylib2to3_ex.pynamespaces.pysite-patch.pyssl_support.pypackage_index.pyunicode_utils.pyscript (dev).tmplwindows_support.py
+1137946638
+ui.lnf.xmlNAVBAR.htmladd_book_page.html	base.html	forms.pycStatic
+Custom.cssworkspace.xml___jb_tmp___	books_newdataSources.xmldataSources.local.xmlportfol2.jpgstaticcss
+custom.cssimgdefault_book.jpgnavbar.htmlsingle_book.htmladd_book_form.htmlinitrd.img.oldvmlinuz.oldnewssite-masternewsvcs.xmlnewssite.imlnewssite__init__.pyc0001_initial.pyc
+models.pyc	admin.pyc	style.css'Screenshot_from_2018-06-06_19-01-28.png'Screenshot_from_2018-06-08_21-56-39.png
+Satia.html0002_news_carddate.py0002_news_carddate.pyc0003_newsinline.py0003_newsinline.pyc0004_remove_news_carddate.py0004_remove_news_carddate.pycbaseRefactoring.xmlStatia.html                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

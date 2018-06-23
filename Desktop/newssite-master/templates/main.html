@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+<style>
+    box-sizing:border-box;
+</style>
+{% block content %}
+
+<div class="row">
+    {% for new in news %}
+    <div class="col-4 " style="margin: 0 auto;">
+        <div class="card mb-2"  >
+          <img class="card-img-top" src="{{ new.cardimg.url }}" alt="Card image cap" height="250px;">
+          <div class="card-body">
+            <a href="{% url 'Statia' %}class="card-title">{{ new.cardtitle }}</a>
+          </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

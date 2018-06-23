@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<body style="background-color:#e1e1d0;">
+    <div class="row">
+    {% for book in books %}
+        <div class="col-4">
+            <div class="card mb-4" style="width: 18rem;">
+            <img style="height: 145px" class="card-img-top" src="{% if book.img %}{{ book.img.url }}{% else %}{% static 'img/default_book.jpg' %}{% endif %}" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title"><a href="{% url 'single_book' book.id %}">{{ book.name }}</a></h5>
+                <p class="card-text">
+                    <b>Genre:</b> <span>{{ book.get_genre_display }}</span>
+                </p>
+              </div>
+            </div>
+        </div>
+    {% empty %}
+        <div class="col-12">
+            <div class="alert alert-warning text-center" role="alert">
+                Books not found :(
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+{% endblock %}
+</body>
